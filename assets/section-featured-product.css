@@ -53,6 +53,10 @@
   .background-secondary .featured-product {
     padding: 5rem;
   }
+
+  .product--right .product__media-wrapper {
+    order: 2;
+  }
 }
 
 @media screen and (min-width: 990px) {
