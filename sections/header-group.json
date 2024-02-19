@@ -8,28 +8,44 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "text_alignment": "center",
-            "color_scheme": "scheme-1",
+            "text": "Made in the UK - Free Delivery over £30",
             "link": ""
+          }
+        },
+        "announcement_bmwVW9": {
+          "type": "announcement",
+          "settings": {
+            "text": "10% off your first order when you join my newsletter",
+            "link": "shopify://pages/newsletter"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
-      ]
+        "announcement-bar-0",
+        "announcement_bmwVW9"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "show_line_separator": false,
+        "show_social": true,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     },
     "header": {
       "type": "header",
       "settings": {
-        "color_scheme": "scheme-1",
-        "logo_position": "middle-left",
+        "logo_position": "top-center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
-        "sticky_header_type": "on-scroll-up",
-        "show_line_separator": true,
-        "enable_country_selector": true,
-        "enable_language_selector": true,
+        "sticky_header_type": "none",
+        "show_line_separator": false,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "scheme-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 20,
