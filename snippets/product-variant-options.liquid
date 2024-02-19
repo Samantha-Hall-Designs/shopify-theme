@@ -26,6 +26,10 @@
 -%}
 
 {%- for value in option.values -%}
+  {% if value contains 'EXPO#' %}
+    {% continue %}
+  {% endif %}
+
   {%- liquid
     assign option_disabled = true
 
