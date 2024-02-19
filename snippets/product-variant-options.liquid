@@ -21,6 +21,10 @@
 -%}
 
 {%- for value in option.values -%}
+  {% if value contains 'EXPO#' %}
+    {% continue %}
+  {% endif %}
+
   {%- liquid
     assign swatch_focal_point = null
     if value.swatch.image
