@@ -6,205 +6,198 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "heading": "Release your inner wild side and immerse yourself into my new Wild Camping collection.",
+            "heading_size": "h1"
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
+        "buttons_4ExLHE": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
+            "button_label_1": "Shop Wild Camping",
+            "button_link_1": "shopify://collections/wild-camping",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
+      "block_order": ["heading", "buttons_4ExLHE"],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "image": "shopify://shop_images/IMG_1079_copy.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "collection_list_XrJEay": {
+      "type": "collection-list",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
+        "featured_collection_mbMKNg": { "type": "featured_collection", "settings": { "collection": "wild-camping" } },
+        "featured_collection_kVn8kQ": { "type": "featured_collection", "settings": { "collection": "personalised" } },
+        "featured_collection_egLNfk": { "type": "featured_collection", "settings": { "collection": "notebooks" } },
+        "featured_collection_mhC6VH": { "type": "featured_collection", "settings": { "collection": "greetings-cards" } }
       },
       "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "heading_size": "h1",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "featured_collection_mbMKNg",
+        "featured_collection_kVn8kQ",
+        "featured_collection_egLNfk",
+        "featured_collection_mhC6VH"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_pTafe3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Q9aYBN": {
+          "type": "column",
+          "settings": {
+            "title": "Wildlife inspired illustrations",
+            "text": "<p>Inspired by the wonderful wildlife we have on our planet, I  create a range of patterns and illustrations that reflect the beauty that surrounds us. My favourite animals to paint are dogs!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UgLDzQ": {
+          "type": "column",
+          "settings": {
+            "title": "My mission to create a greener business",
+            "text": "<p>I try to think ‘green’ with every part of the business. This includes <br/>making conscious decisions about the materials, processes and the <br/>packaging I use. It is my mission to do everything that I can to help <br/>the planet.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tJFDzL": {
+          "type": "column",
+          "settings": {
+            "title": "Made in the UK & designed in Worthing",
+            "text": "<p>All of my wildlife and nature inspired designs are created in my studio <br/>in Worthing by me. I then use wonderful UK manufacturers to turn my creations into products that bring joy to everyone. I want to support British manufacturing and other local businesses.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": ["column_Q9aYBN", "column_UgLDzQ", "column_tJFDzL"],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_fyeTxX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_t4UXrp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Logo-388x258-1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pQtg9P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/hund_im_gluck_logo_blau.png__1200x628_q85_crop_subject_location-Hund_im_Gluck_logo_blau.png_subsampling-2_upscale-e1603468795621.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DNEyQa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/yourDogLogo-1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": ["column_t4UXrp", "column_pQtg9P", "column_DNEyQa"],
+      "custom_css": ["h2.title {margin: 0 auto;}"],
+      "settings": {
+        "title": "Featured in",
+        "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_6Mh8FQ": {
+      "type": "multirow",
+      "blocks": {
+        "row_7Xmx3Q": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4109-2048x1365.jpg",
+            "caption": "",
+            "heading": "Wholesale",
+            "text": "<p>Are you a shop and are looking to stock my products? Head over to my wholesale page to find out more information on how you can be a stockist!</p>",
+            "button_label": "Find out more",
+            "button_link": "shopify://pages/wholesale"
+          }
+        }
+      },
+      "block_order": ["row_7Xmx3Q"],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
-  "order": [
-    "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
-  ]
+  "order": ["image_banner", "collection_list_XrJEay", "multicolumn_pTafe3", "multicolumn_fyeTxX", "multirow_6Mh8FQ"]
 }
