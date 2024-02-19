@@ -103,6 +103,9 @@
           },
           "label": "Position on cards"
         },
+        "personalisable_badge_color_scheme": {
+            "label": "Personalisable badge color scheme"
+        },
         "sale_badge_color_scheme": {
           "label": "Sale badge color scheme"
         },

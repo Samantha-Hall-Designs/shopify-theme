@@ -1256,6 +1256,12 @@
       },
       {
         "type": "color_scheme",
+        "id": "personalisable_badge_color_scheme",
+        "label": "t:settings_schema.badges.settings.personalisable_badge_color_scheme.label",
+        "default": "accent-2"
+      },
+      {
+        "type": "color_scheme",
         "id": "sale_badge_color_scheme",
         "label": "t:settings_schema.badges.settings.sale_badge_color_scheme.label",
         "default": "accent-2"
