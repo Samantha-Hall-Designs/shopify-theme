@@ -93,6 +93,18 @@ html.no-js .no-js-hidden {
   display: none !important;
 }
 
+.unsupported-country-block {
+  display: none !important;
+}
+
+html.unsupported-country .unsupported-country-hidden {
+  display: none !important;
+}
+
+html.unsupported-country .unsupported-country-block {
+  display: block !important;
+}
+
 .page-width {
   max-width: var(--page-width);
   margin: 0 auto;

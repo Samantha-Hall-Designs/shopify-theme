@@ -27,6 +27,8 @@
       "settings": {
         "color_scheme": "scheme-4",
         "show_line_separator": false,
+        "unsupported_country_text": "Please use my Etsy Store for Non-UK Shipping",
+        "unsupported_country_link": "https://www.etsy.com/shop/SamanthaHallDesigns",
         "show_social": true,
         "auto_rotate": true,
         "change_slides_speed": 5,

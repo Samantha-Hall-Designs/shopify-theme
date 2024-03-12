@@ -279,6 +279,41 @@
       if (Shopify.designMode) {
         document.documentElement.classList.add('shopify-design-mode');
       }
+
+      // Check if we have a valid "unsupported country" flag still set
+      function countryCheck() {
+        // First check if there's a valid value already to avoid checking every time a page loads
+        const lastCountryCheck = window.localStorage.getItem("shd.countryCheck.lastTime");
+        if (lastCountryCheck) {
+          const lastCountryCheckInt = parseInt(lastCountryCheck, 10);
+          const validFor = 3600000; // 1 hour in milliseconds
+          if (lastCountryCheckInt + validFor > Date.now()) {
+            const lastCountryCheckValue = window.localStorage.getItem("shd.countryCheck.lastValue");
+            if (lastCountryCheckValue === "false") {
+              document.documentElement.classList.add("unsupported-country");
+            }
+            return;
+          }
+        }
+
+        // Otherwise, query the current use location from the Geolocation app
+        const available_countries = [
+          {%- for country in localization.available_countries -%}
+            "{{country.iso_code}}",
+          {%- endfor -%}
+        ];
+        fetch('/browsing_context_suggestions.json')
+          .then(res=>res.json())
+          .then(r => {
+            const supportedCountry = available_countries.includes(r.detected_values.country.handle);
+            window.localStorage.setItem("shd.countryCheck.lastTime", Date.now());
+            window.localStorage.setItem("shd.countryCheck.lastValue", supportedCountry);
+
+            if (!supportedCountry) {
+              document.documentElement.classList.add("unsupported-country");
+            }
+          });
+      }();
     </script>
   </head>
 
