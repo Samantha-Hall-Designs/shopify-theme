@@ -1,8 +1,8 @@
 {
   "current": {
-    "logo": "shopify://shop_images/samantha-hall-designs-logo.png",
+    "logo": "shopify:\/\/shop_images\/samantha-hall-designs-logo.png",
     "logo_width": 140,
-    "favicon": "shopify://shop_images/samantha-hall-designs-logo-inset.png",
+    "favicon": "shopify:\/\/shop_images\/samantha-hall-designs-logo-inset.png",
     "type_header_font": "garamond_n4",
     "heading_scale": 100,
     "type_body_font": "garamond_n4",
@@ -100,10 +100,10 @@
     "sale_badge_color_scheme": "scheme-5",
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "",
-    "brand_description": "<p></p>",
+    "brand_description": "<p><\/p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https://www.facebook.com/samanthahalldesign/",
-    "social_instagram_link": "https://www.instagram.com/samanthahalldesigns/",
+    "social_facebook_link": "https:\/\/www.facebook.com\/samanthahalldesign\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/samanthahalldesigns\/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -120,7 +120,7 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-1",
-    "checkout_logo_image": "shopify://shop_images/samantha-hall-designs-logo.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/samantha-hall-designs-logo.png",
     "checkout_logo_size": "large",
     "checkout_heading_font": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman'",
     "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
@@ -140,10 +140,12 @@
         }
       }
     },
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "blocks": {
       "15418052891816840908": {
-        "type": "shopify://apps/expo-extra-product-options/blocks/expo-embed/07e9c3c4-4d7c-4540-8004-198ebcc5815d",
+        "type": "shopify:\/\/apps\/expo-extra-product-options\/blocks\/expo-embed\/07e9c3c4-4d7c-4540-8004-198ebcc5815d",
         "disabled": false,
         "settings": {
           "swatch_width": 40,

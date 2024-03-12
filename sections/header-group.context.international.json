@@ -4,5 +4,47 @@
     "market": "international"
   },
   "sections": {
-  }
+    "announcement-bar": {
+      "disabled": true,
+      "settings": {
+      },
+      "blocks": {
+      }
+    },
+    "announcement_bar_Ui6Mw": {
+      "type": "announcement-bar",
+      "disabled": false,
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "header-ffbce8678e8f51de16062e3dac313345": null,
+        "show_social": false,
+        "header-1f9fbd9f9a622825f59e1a112ac79f59": null,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "header-c4e724fb8e439028f3e87b6d3f080e45": null,
+        "enable_country_selector": false,
+        "header-a69d57da32e69eeeac9cd6564f77bc7c": null,
+        "enable_language_selector": false
+      },
+      "blocks": {
+        "announcement_ayPKH": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Non-UK Shopping is Available via our Etsy Store",
+            "link": "https:\/\/www.etsy.com\/shop\/SamanthaHallDesigns"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_ayPKH"
+      ]
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "announcement_bar_Ui6Mw",
+    "header"
+  ]
 }
