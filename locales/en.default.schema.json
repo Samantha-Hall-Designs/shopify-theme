@@ -454,6 +454,23 @@
         "heading_utilities": {
          "content": "Utilities"
         },
+        "header__0": {
+          "content": "Unsupported countries message",
+          "info": "Display a message and link only to countries which are not part of one of your markets by adding it here."
+        },
+        "unsupported_country_text": {
+          "label": "Text"
+        },
+        "unsupported_country_link": {
+          "label": "Link"
+        },
+        "header__1": {
+          "content": "Social media icons",
+          "info": "To display your social media accounts, link them in your [theme settings](/editor?context=theme&category=social%20media)."
+        },
+        "header__2": {
+          "content": "Announcements"
+        },
         "paragraph": {
           "content": "Appear only on large screens"
         },                     
