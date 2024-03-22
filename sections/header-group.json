@@ -16,6 +16,14 @@
         "enable_language_selector": false
       },
       "blocks": {
+        "announcement_wEmkjh": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "The store is closed for Christmas. Orders placed now will be sent out on the 2nd of January",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -32,6 +40,7 @@
         }
       },
       "block_order": [
+        "announcement_wEmkjh",
         "announcement-bar-0",
         "announcement_bmwVW9"
       ]
