@@ -47,6 +47,7 @@
         },
         "bundly_mix_match_bundles_product_bundles_BE3h8x": {
           "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/product_bundles\/1cabc354-c7f9-42e9-8322-7655396b33b7",
+          "disabled": true,
           "settings": {
             "heading": "Special Offer",
             "show_bundle_image": false,
