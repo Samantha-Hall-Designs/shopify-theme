@@ -71,6 +71,11 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "floatyapps_volume_discounts_app_block_main_8FPx9R": {
+          "type": "shopify:\/\/apps\/floatyapps-volume-discounts\/blocks\/app-block.main\/93e4710f-71fd-4532-ba8e-aa8aea9d985c",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -83,7 +88,8 @@
         "buy_buttons",
         "bundly_mix_match_bundles_product_bundles_BE3h8x",
         "description",
-        "share"
+        "share",
+        "floatyapps_volume_discounts_app_block_main_8FPx9R"
       ],
       "custom_css": [
         "\/* Hide the variant selector created by the EXPO app *\/fieldset:has(input[value=\"Default Title\"]) {display: none;}"
