@@ -48,10 +48,10 @@
         "bundly_mix_match_bundles_product_bundles_BE3h8x": {
           "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/product_bundles\/1cabc354-c7f9-42e9-8322-7655396b33b7",
           "settings": {
-            "heading": "Special Offers",
+            "heading": "Special Offer",
             "show_bundle_image": false,
             "ribbon_text": "",
-            "show_components": true,
+            "show_components": false,
             "show_component_images": true,
             "show_discount_type": false,
             "show_original_price": true,
