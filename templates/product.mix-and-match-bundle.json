@@ -21,8 +21,24 @@
           "settings": {
           }
         },
+        "bundly_mix_match_bundles_bundle_information_mfAQNT": {
+          "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/bundle_information\/1cabc354-c7f9-42e9-8322-7655396b33b7",
+          "settings": {
+            "show_bundle_images": true,
+            "show_title": true,
+            "show_discount_type": false,
+            "show_original_price": true,
+            "show_new_price": true,
+            "show_component_images": true,
+            "show_component_prices": false,
+            "liquid": "",
+            "use_default_styling": true,
+            "css": ""
+          }
+        },
         "bundly_mix_match_bundles_bundle_variant_picker_7CyYGF": {
           "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/bundle_variant_picker\/1cabc354-c7f9-42e9-8322-7655396b33b7",
+          "disabled": true,
           "settings": {
             "show_component_images": true,
             "show_component_prices": false,
@@ -53,6 +69,7 @@
         "vendor",
         "title",
         "price",
+        "bundly_mix_match_bundles_bundle_information_mfAQNT",
         "bundly_mix_match_bundles_bundle_variant_picker_7CyYGF",
         "buy_buttons",
         "description",
