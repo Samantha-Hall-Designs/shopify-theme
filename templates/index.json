@@ -14,7 +14,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Wild Camping",
-            "button_link_1": "shopify://collections/wild-camping",
+            "button_link_1": "shopify:\/\/collections\/wild-camping",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -22,9 +22,12 @@
           }
         }
       },
-      "block_order": ["heading", "buttons_4ExLHE"],
+      "block_order": [
+        "heading",
+        "buttons_4ExLHE"
+      ],
       "settings": {
-        "image": "shopify://shop_images/IMG_1079_copy.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_1079_copy.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -40,10 +43,30 @@
     "collection_list_XrJEay": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_mbMKNg": { "type": "featured_collection", "settings": { "collection": "wild-camping" } },
-        "featured_collection_kVn8kQ": { "type": "featured_collection", "settings": { "collection": "personalised" } },
-        "featured_collection_egLNfk": { "type": "featured_collection", "settings": { "collection": "notebooks" } },
-        "featured_collection_mhC6VH": { "type": "featured_collection", "settings": { "collection": "greetings-cards" } }
+        "featured_collection_mbMKNg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wild-camping"
+          }
+        },
+        "featured_collection_kVn8kQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "border-collie"
+          }
+        },
+        "featured_collection_egLNfk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "golden-retriever"
+          }
+        },
+        "featured_collection_mhC6VH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "terrier"
+          }
+        }
       },
       "block_order": [
         "featured_collection_mbMKNg",
@@ -71,7 +94,7 @@
           "type": "column",
           "settings": {
             "title": "Wildlife inspired illustrations",
-            "text": "<p>Inspired by the wonderful wildlife we have on our planet, I  create a range of patterns and illustrations that reflect the beauty that surrounds us. My favourite animals to paint are dogs!</p>",
+            "text": "<p>Inspired by the wonderful wildlife we have on our planet, I  create a range of patterns and illustrations that reflect the beauty that surrounds us. My favourite animals to paint are dogs!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -80,7 +103,7 @@
           "type": "column",
           "settings": {
             "title": "My mission to create a greener business",
-            "text": "<p>I try to think ‘green’ with every part of the business. This includes <br/>making conscious decisions about the materials, processes and the <br/>packaging I use. It is my mission to do everything that I can to help <br/>the planet.</p>",
+            "text": "<p>I try to think ‘green’ with every part of the business. This includes <br\/>making conscious decisions about the materials, processes and the <br\/>packaging I use. It is my mission to do everything that I can to help <br\/>the planet.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -89,13 +112,17 @@
           "type": "column",
           "settings": {
             "title": "Made in the UK & designed in Worthing",
-            "text": "<p>All of my wildlife and nature inspired designs are created in my studio <br/>in Worthing by me. I then use wonderful UK manufacturers to turn my creations into products that bring joy to everyone. I want to support British manufacturing and other local businesses.</p>",
+            "text": "<p>All of my wildlife and nature inspired designs are created in my studio <br\/>in Worthing by me. I then use wonderful UK manufacturers to turn my creations into products that bring joy to everyone. I want to support British manufacturing and other local businesses.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
-      "block_order": ["column_Q9aYBN", "column_UgLDzQ", "column_tJFDzL"],
+      "block_order": [
+        "column_Q9aYBN",
+        "column_UgLDzQ",
+        "column_tJFDzL"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -119,7 +146,7 @@
         "column_t4UXrp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Logo-388x258-1.png",
+            "image": "shopify:\/\/shop_images\/Logo-388x258-1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -129,7 +156,7 @@
         "column_pQtg9P": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/hund_im_gluck_logo_blau.png__1200x628_q85_crop_subject_location-Hund_im_Gluck_logo_blau.png_subsampling-2_upscale-e1603468795621.png",
+            "image": "shopify:\/\/shop_images\/hund_im_gluck_logo_blau.png__1200x628_q85_crop_subject_location-Hund_im_Gluck_logo_blau.png_subsampling-2_upscale-e1603468795621.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -139,7 +166,7 @@
         "column_DNEyQa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/yourDogLogo-1.png",
+            "image": "shopify:\/\/shop_images\/yourDogLogo-1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -147,8 +174,14 @@
           }
         }
       },
-      "block_order": ["column_t4UXrp", "column_pQtg9P", "column_DNEyQa"],
-      "custom_css": ["h2.title {margin: 0 auto;}"],
+      "block_order": [
+        "column_t4UXrp",
+        "column_pQtg9P",
+        "column_DNEyQa"
+      ],
+      "custom_css": [
+        "h2.title {margin: 0 auto;}"
+      ],
       "settings": {
         "title": "Featured in",
         "heading_size": "h2",
@@ -172,16 +205,18 @@
         "row_7Xmx3Q": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/IMG_4109-2048x1365.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_4109-2048x1365.jpg",
             "caption": "",
             "heading": "Wholesale",
-            "text": "<p>Are you a shop and are looking to stock my products? Head over to my wholesale page to find out more information on how you can be a stockist!</p>",
+            "text": "<p>Are you a shop and are looking to stock my products? Head over to my wholesale page to find out more information on how you can be a stockist!<\/p>",
             "button_label": "Find out more",
-            "button_link": "shopify://pages/wholesale"
+            "button_link": "shopify:\/\/pages\/wholesale"
           }
         }
       },
-      "block_order": ["row_7Xmx3Q"],
+      "block_order": [
+        "row_7Xmx3Q"
+      ],
       "settings": {
         "image_height": "small",
         "desktop_image_width": "medium",
@@ -199,5 +234,11 @@
       }
     }
   },
-  "order": ["image_banner", "collection_list_XrJEay", "multicolumn_pTafe3", "multicolumn_fyeTxX", "multirow_6Mh8FQ"]
+  "order": [
+    "image_banner",
+    "collection_list_XrJEay",
+    "multicolumn_pTafe3",
+    "multicolumn_fyeTxX",
+    "multirow_6Mh8FQ"
+  ]
 }
