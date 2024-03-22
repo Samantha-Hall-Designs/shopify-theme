@@ -45,22 +45,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "bundly_mix_match_bundles_product_bundles_BE3h8x": {
-          "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/product_bundles\/1cabc354-c7f9-42e9-8322-7655396b33b7",
-          "disabled": true,
-          "settings": {
-            "heading": "Special Offer",
-            "show_bundle_image": false,
-            "ribbon_text": "",
-            "show_components": false,
-            "show_component_images": true,
-            "show_discount_type": false,
-            "show_original_price": true,
-            "show_new_price": false,
-            "use_default_styling": true,
-            "css": ""
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -70,6 +54,11 @@
           "type": "share",
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "yanet_volume_discount_promo_table_JedB77": {
+          "type": "shopify:\/\/apps\/yanet-volume-discount\/blocks\/promo-table\/bb8aa9c5-8095-4b62-b73a-92eaddef81d1",
+          "settings": {
           }
         }
       },
@@ -81,9 +70,9 @@
         "expo_extra_product_options_expo_block_hdfxtP",
         "quantity_selector",
         "buy_buttons",
-        "bundly_mix_match_bundles_product_bundles_BE3h8x",
         "description",
-        "share"
+        "share",
+        "yanet_volume_discount_promo_table_JedB77"
       ],
       "custom_css": [
         "\/* Hide the variant selector created by the EXPO app *\/fieldset:has(input[value=\"Default Title\"]) {display: none;}"
