@@ -55,11 +55,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "yanet_volume_discount_promo_table_JedB77": {
-          "type": "shopify:\/\/apps\/yanet-volume-discount\/blocks\/promo-table\/bb8aa9c5-8095-4b62-b73a-92eaddef81d1",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -71,8 +66,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "yanet_volume_discount_promo_table_JedB77"
+        "share"
       ],
       "custom_css": [
         "\/* Hide the variant selector created by the EXPO app *\/fieldset:has(input[value=\"Default Title\"]) {display: none;}"
