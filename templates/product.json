@@ -55,7 +55,7 @@
             "show_component_images": true,
             "show_discount_type": false,
             "show_original_price": true,
-            "show_new_price": true,
+            "show_new_price": false,
             "use_default_styling": true,
             "css": ""
           }
