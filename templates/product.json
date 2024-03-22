@@ -12,23 +12,31 @@
           }
         },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {
+          }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "expo_extra_product_options_expo_block_hdfxtP": {
-          "type": "shopify://apps/expo-extra-product-options/blocks/expo-block/07e9c3c4-4d7c-4540-8004-198ebcc5815d",
-          "settings": {}
+          "type": "shopify:\/\/apps\/expo-extra-product-options\/blocks\/expo-block\/07e9c3c4-4d7c-4540-8004-198ebcc5815d",
+          "settings": {
+          }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -37,8 +45,25 @@
             "show_gift_card_recipient": true
           }
         },
+        "bundly_mix_match_bundles_product_bundles_BE3h8x": {
+          "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/product_bundles\/1cabc354-c7f9-42e9-8322-7655396b33b7",
+          "settings": {
+            "heading": "Special Offers",
+            "show_bundle_image": false,
+            "ribbon_text": "",
+            "show_components": true,
+            "show_component_images": true,
+            "show_discount_type": false,
+            "show_original_price": true,
+            "show_new_price": true,
+            "use_default_styling": true,
+            "css": ""
+          }
+        },
         "description": {
-          "type": "description"
+          "type": "description",
+          "settings": {
+          }
         },
         "share": {
           "type": "share",
@@ -55,11 +80,12 @@
         "expo_extra_product_options_expo_block_hdfxtP",
         "quantity_selector",
         "buy_buttons",
+        "bundly_mix_match_bundles_product_bundles_BE3h8x",
         "description",
         "share"
       ],
       "custom_css": [
-        "/* Hide the variant selector created by the EXPO app */fieldset:has(input[value=\"Default Title\"]) {display: none;}"
+        "\/* Hide the variant selector created by the EXPO app *\/fieldset:has(input[value=\"Default Title\"]) {display: none;}"
       ],
       "settings": {
         "enable_sticky_info": true,
