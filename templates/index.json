@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Release your inner wild side and immerse yourself into my new Wild Camping collection.",
+            "heading": "Shop my brand new Border Collie collection here!",
             "heading_size": "h1"
           }
         },
@@ -14,7 +14,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Wild Camping",
-            "button_link_1": "shopify:\/\/collections\/wild-camping",
+            "button_link_1": "shopify:\/\/collections\/border-collie",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -27,7 +27,7 @@
         "buttons_4ExLHE"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_1079_copy.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_1445_9a9713df-2400-416b-8756-64e635f06fbe.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
