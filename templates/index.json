@@ -6,13 +6,25 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "20% off everything in my shop this weekend! No code needed. Discount applied at checkout!",
+            "heading": "Shop the new Border Collie Collection!",
             "heading_size": "h1"
+          }
+        },
+        "buttons_CNqGmE": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Border Collie",
+            "button_link_1": "shopify:\/\/collections\/border-collie",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "buttons_CNqGmE"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_1445_9a9713df-2400-416b-8756-64e635f06fbe.jpg",
