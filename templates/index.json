@@ -87,6 +87,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_8Pe9Tx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6DKJyg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hand painted and designed by me",
+            "heading_size": "h1"
+          }
+        },
+        "text_kwLMz3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Did you know all of my patterns are hand painted with watercolours and then created in Photoshop by me? <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_peXj4j": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more here",
+            "button_link": "shopify:\/\/pages\/about-me",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6DKJyg",
+        "text_kwLMz3",
+        "button_peXj4j"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3981-Edit.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_pTafe3": {
       "type": "multicolumn",
       "blocks": {
@@ -136,53 +183,6 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_8Pe9Tx": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_6DKJyg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Hand painted and designed by me",
-            "heading_size": "h1"
-          }
-        },
-        "text_kwLMz3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Did you know all of my patterns are hand painted with watercolours and then created in Photoshop by me? <\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_peXj4j": {
-          "type": "button",
-          "settings": {
-            "button_label": "Find out more here",
-            "button_link": "shopify:\/\/pages\/about-me",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_6DKJyg",
-        "text_kwLMz3",
-        "button_peXj4j"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3981-Edit.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -284,8 +284,8 @@
   "order": [
     "image_banner",
     "collection_list_XrJEay",
-    "multicolumn_pTafe3",
     "image_with_text_8Pe9Tx",
+    "multicolumn_pTafe3",
     "multicolumn_fyeTxX",
     "multirow_6Mh8FQ"
   ]
