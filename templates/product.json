@@ -38,6 +38,18 @@
           "settings": {
           }
         },
+        "custom_liquid_4PcwLh": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.tags contains 'Greeting Card' %}\n<p><strong>Special offer:<\/strong><br>\nBuy any 4 <a href=\"\/collections\/greetings-cards\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Greeting Cards<\/a> for £10<\/p>\n{% endif %}"
+          }
+        },
+        "custom_liquid_RP9r6E": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.tags contains 'Notebook' %}\n<p><strong>Special offer:<\/strong><br>\nBuy any 2 <a href=\"\/collections\/notebooks\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Notebooks<\/a> for £20<\/p>\n{% endif %}"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -64,6 +76,8 @@
         "variant_picker",
         "expo_extra_product_options_expo_block_hdfxtP",
         "quantity_selector",
+        "custom_liquid_4PcwLh",
+        "custom_liquid_RP9r6E",
         "buy_buttons",
         "description",
         "share"
