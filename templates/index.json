@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -6,15 +15,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "SALE",
+            "heading": "New Backpacks",
             "heading_size": "h1"
           }
         },
         "buttons_CNqGmE": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the Sale",
-            "button_link_1": "shopify:\/\/collections\/sale",
+            "button_label_1": "Shop Backpacks",
+            "button_link_1": "shopify:\/\/collections\/backpacks",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -27,7 +36,7 @@
         "buttons_CNqGmE"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_20200224_120619-scaled_bc0b6657-38cc-406a-8891-70b526a441be.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_6948.jpg",
         "image_overlay_opacity": 20,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
