@@ -15,28 +15,16 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "New Backpacks",
+            "heading": "August Bank Holiday Treats! Shop 20% off in my shop this weekend!",
             "heading_size": "h1"
-          }
-        },
-        "buttons_CNqGmE": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Backpacks",
-            "button_link_1": "shopify:\/\/collections\/backpacks",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading",
-        "buttons_CNqGmE"
+        "heading"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6948.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_1362.jpg",
         "image_overlay_opacity": 20,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
