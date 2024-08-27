@@ -15,13 +15,25 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "August Bank Holiday Treats! Shop 20% off in my shop this weekend!",
+            "heading": "Back to school essentials! Shop 2 notebooks for £20!",
             "heading_size": "h1"
+          }
+        },
+        "buttons_hnF88F": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop here",
+            "button_link_1": "shopify:\/\/collections\/notebooks",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/collections\/notebooks",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "buttons_hnF88F"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_1362.jpg",
