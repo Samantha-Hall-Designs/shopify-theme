@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Back to school essentials! Shop 2 notebooks for £20!",
+            "heading": "<strong>Personalised notebooks have arrived<\/strong> - Enhance your gift experience here",
             "heading_size": "h1"
           }
         },
@@ -36,8 +36,8 @@
         "buttons_hnF88F"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_1279_2a758ded-7d12-4c30-96d1-f72807d04d34.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/IMG_2507_copy.jpg",
+        "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
