@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Personalised notebooks have arrived<\/strong> - Enhance your gift experience here",
+            "heading": "<strong>Personalised notebooks have arrived</strong> - Enhance your gift experience here",
             "heading_size": "h1"
           }
         },
@@ -23,10 +23,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop here",
-            "button_link_1": "shopify:\/\/collections\/notebooks",
+            "button_link_1": "shopify://collections/notebooks",
             "button_style_secondary_1": false,
             "button_label_2": "",
-            "button_link_2": "shopify:\/\/collections\/notebooks",
+            "button_link_2": "shopify://collections/notebooks",
             "button_style_secondary_2": false
           }
         }
@@ -36,7 +36,7 @@
         "buttons_hnF88F"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2474_copy.jpg",
+        "image": "shopify://shop_images/IMG_2474_copy.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -102,33 +102,24 @@
         "heading_6DKJyg": {
           "type": "heading",
           "settings": {
-            "heading": "Hand painted and designed by me",
+            "heading": "Creating Connections",
             "heading_size": "h1"
           }
         },
         "text_kwLMz3": {
           "type": "text",
           "settings": {
-            "text": "<p>Did you know all of my patterns are hand painted with watercolours and then created in Photoshop by me? Everything is designed in my studio in Worthing on the south coast.<\/p>",
+            "text": "<p>Do you love to walk in the forest with your best friend, ride your horse or give your cat the best hugs? I like to create these memories within my work so you can really connect and resonate with my artwork. For me I have always wanted to find the perfect gift that I can connect with on an emotional level.</p>",
             "text_style": "body"
-          }
-        },
-        "button_peXj4j": {
-          "type": "button",
-          "settings": {
-            "button_label": "Find out more here",
-            "button_link": "shopify:\/\/pages\/about-me",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_6DKJyg",
-        "text_kwLMz3",
-        "button_peXj4j"
+        "text_kwLMz3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3981-Edit.jpg",
+        "image": "shopify://shop_images/IMG_6948.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -149,8 +140,8 @@
         "column_Q9aYBN": {
           "type": "column",
           "settings": {
-            "title": "<strong>Wildlife inspired illustrations<\/strong>",
-            "text": "<p>Inspired by the wonderful wildlife we have on our planet, I  create a range of patterns and illustrations that reflect the beauty that surrounds us. My favourite animals to paint are dogs!<\/p>",
+            "title": "<strong>Dog breed specific</strong>",
+            "text": "<p>As a dog owner myself, I have always wanted to find the perfect gift with my dog on it! That's why I have been curating a list of dog breeds (which regularly gets added to)  to create patterns for. I really want to do as many dog illustrations as I can!</p>",
             "link_label": "",
             "link": ""
           }
@@ -158,8 +149,8 @@
         "column_UgLDzQ": {
           "type": "column",
           "settings": {
-            "title": "<strong>My mission to create a greener business<\/strong>",
-            "text": "<p>I try to think ‘green’ with every part of the business. This includes <br\/>making conscious decisions about the materials, processes and the <br\/>packaging I use. It is my mission to do everything that I can to help <br\/>the planet.<\/p>",
+            "title": "<strong>Hand painted and designed by me</strong>",
+            "text": "<p>Did you know all of my patterns are hand painted with watercolours and then created in Photoshop by me? Everything is designed in my studio in Worthing on the south coast.</p>",
             "link_label": "",
             "link": ""
           }
@@ -167,8 +158,8 @@
         "column_tJFDzL": {
           "type": "column",
           "settings": {
-            "title": "<strong>Made in the UK & designed in Worthing<\/strong>",
-            "text": "<p>All of my wildlife and nature inspired designs are created in my studio <br\/>in Worthing by me. I then use wonderful UK manufacturers to turn my creations into products that bring joy to everyone. I want to support British manufacturing and other local businesses.<\/p>",
+            "title": "<strong>Made in the UK & designed in Worthing</strong>",
+            "text": "<p>All of my wildlife and nature inspired designs are created in my studio <br/>in Worthing by me. I then use wonderful UK manufacturers to turn my creations into products that bring joy to everyone. I want to support British manufacturing and other local businesses.</p>",
             "link_label": "",
             "link": ""
           }
@@ -202,7 +193,7 @@
         "column_t4UXrp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo-388x258-1.png",
+            "image": "shopify://shop_images/Logo-388x258-1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -212,7 +203,7 @@
         "column_pQtg9P": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hund_im_gluck_logo_blau.png__1200x628_q85_crop_subject_location-Hund_im_Gluck_logo_blau.png_subsampling-2_upscale-e1603468795621.png",
+            "image": "shopify://shop_images/hund_im_gluck_logo_blau.png__1200x628_q85_crop_subject_location-Hund_im_Gluck_logo_blau.png_subsampling-2_upscale-e1603468795621.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -222,7 +213,7 @@
         "column_DNEyQa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/yourDogLogo-1.png",
+            "image": "shopify://shop_images/yourDogLogo-1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -261,12 +252,12 @@
         "row_7Xmx3Q": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_4109-2048x1365.jpg",
+            "image": "shopify://shop_images/IMG_4109-2048x1365.jpg",
             "caption": "",
             "heading": "Wholesale",
-            "text": "<p>Are you a shop and are looking to stock my products? Head over to my wholesale page to find out more information on how you can be a stockist!<\/p>",
+            "text": "<p>Are you a shop and are looking to stock my products? Head over to my wholesale page to find out more information on how you can be a stockist!</p>",
             "button_label": "Find out more",
-            "button_link": "shopify:\/\/pages\/wholesale"
+            "button_link": "shopify://pages/wholesale"
           }
         }
       },
