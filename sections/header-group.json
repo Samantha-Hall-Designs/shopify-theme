@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -16,19 +25,27 @@
           "type": "announcement",
           "settings": {
             "text": "10% off your first order when you join my newsletter",
-            "link": "shopify:\/\/pages\/newsletter"
+            "link": "shopify://pages/newsletter"
+          }
+        },
+        "announcement_F76zdb": {
+          "type": "announcement",
+          "settings": {
+            "text": "I am away until the 21st of October, all orders will be shipped after this date",
+            "link": ""
           }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_bmwVW9"
+        "announcement_bmwVW9",
+        "announcement_F76zdb"
       ],
       "settings": {
         "color_scheme": "scheme-4",
         "show_line_separator": false,
         "unsupported_country_text": "Please use my Etsy Store for Non-UK Shipping",
-        "unsupported_country_link": "https:\/\/www.etsy.com\/shop\/SamanthaHallDesigns",
+        "unsupported_country_link": "https://www.etsy.com/shop/SamanthaHallDesigns",
         "show_social": true,
         "auto_rotate": true,
         "change_slides_speed": 5,
