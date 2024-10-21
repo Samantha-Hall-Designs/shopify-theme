@@ -27,19 +27,11 @@
             "text": "10% off your first order when you join my newsletter",
             "link": "shopify://pages/newsletter"
           }
-        },
-        "announcement_F76zdb": {
-          "type": "announcement",
-          "settings": {
-            "text": "I am away until the 21st of October, all orders will be shipped after this date",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_bmwVW9",
-        "announcement_F76zdb"
+        "announcement_bmwVW9"
       ],
       "settings": {
         "color_scheme": "scheme-4",
