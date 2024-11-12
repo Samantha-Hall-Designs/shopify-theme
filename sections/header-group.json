@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_p9DR3t": {
+          "type": "announcement",
+          "settings": {
+            "text": "I am currently away at a show in London! All orders will be shipped out on the 18th of November.",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -27,19 +34,12 @@
             "text": "10% off your first order when you join my newsletter",
             "link": "shopify://pages/newsletter"
           }
-        },
-        "announcement_p9DR3t": {
-          "type": "announcement",
-          "settings": {
-            "text": "I am currently away at a show in London! All orders will be shipped out on the 18th of November.",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "announcement_p9DR3t",
         "announcement-bar-0",
-        "announcement_bmwVW9",
-        "announcement_p9DR3t"
+        "announcement_bmwVW9"
       ],
       "settings": {
         "color_scheme": "scheme-4",
