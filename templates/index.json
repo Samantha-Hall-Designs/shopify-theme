@@ -18,22 +18,10 @@
             "heading": "<strong>BLACK FRIDAY</strong> - Shop 15% off my entire shop! Discount is automatically applied at checkout!",
             "heading_size": "h1"
           }
-        },
-        "buttons_hnF88F": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop here",
-            "button_link_1": "shopify://collections/notebooks",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "shopify://collections/notebooks",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "heading",
-        "buttons_hnF88F"
+        "heading"
       ],
       "settings": {
         "image": "shopify://shop_images/hedgehog_fantasy.jpg",
