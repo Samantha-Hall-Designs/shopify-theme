@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Personalised notebooks have arrived</strong> - Enhance your gift experience here",
+            "heading": "<strong>BLACK FRIDAY</strong> - Shop 15% off my entire shop! Discount is automatically applied at checkout!",
             "heading_size": "h1"
           }
         },
@@ -36,7 +36,7 @@
         "buttons_hnF88F"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_2474_copy.jpg",
+        "image": "shopify://shop_images/hedgehog_fantasy.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
