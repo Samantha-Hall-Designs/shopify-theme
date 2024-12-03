@@ -15,16 +15,28 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>BLACK FRIDAY</strong> - Shop 15% off my entire shop! Discount is automatically applied at checkout!",
+            "heading": "<strong>The Perfect Gift for Stationery Lovers</strong> - Shop gift sets here!",
             "heading_size": "h1"
+          }
+        },
+        "buttons_hEH4hA": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Gift Sets",
+            "button_link_1": "https://samanthahall.design/collections/letterbox-gift-sets",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "buttons_hEH4hA"
       ],
       "settings": {
-        "image": "shopify://shop_images/hedgehog_fantasy.jpg",
+        "image": "shopify://shop_images/IMG_2826_copy.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
