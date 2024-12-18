@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_wEmkjh": {
+          "type": "announcement",
+          "settings": {
+            "text": "The store is closed for Christmas. Orders placed now will be sent out in the near year",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -30,6 +37,7 @@
         }
       },
       "block_order": [
+        "announcement_wEmkjh",
         "announcement-bar-0",
         "announcement_bmwVW9"
       ],
