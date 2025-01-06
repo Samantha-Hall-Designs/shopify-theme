@@ -15,15 +15,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>The Perfect Gift for Stationery Lovers</strong> - Shop gift sets here!",
+            "heading": "<strong>Shop up to 50% off in the January Sale</strong>",
             "heading_size": "h1"
           }
         },
         "buttons_hEH4hA": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Gift Sets",
-            "button_link_1": "https://samanthahall.design/collections/letterbox-gift-sets",
+            "button_label_1": "Shop Sale",
+            "button_link_1": "https://samanthahall.design/collections/sale",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
