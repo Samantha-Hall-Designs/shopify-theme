@@ -139,7 +139,7 @@
               >
                 {{- 'products.product.on_sale' | t -}}
               </span>
-            {% elsif card_product.tags contains 'Personalised Name' %}
+            {% elsif card_product.tags contains 'Personalised Name' or card_product.tags contains 'Personalised Gold Foiling' %}
               <span
                 id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
                 class="badge badge--bottom-left color-{{ settings.personalisable_badge_color_scheme }}"
