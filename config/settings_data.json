@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "logo": "shopify://shop_images/samantha-hall-designs-logo.png",
@@ -161,10 +170,9 @@
         }
       },
       "6076770253474975442": {
-        "type": "shopify:\/\/apps\/yanet-volume-discount\/blocks\/embed\/bb8aa9c5-8095-4b62-b73a-92eaddef81d1",
+        "type": "shopify://apps/yanet-volume-discount/blocks/embed/bb8aa9c5-8095-4b62-b73a-92eaddef81d1",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "color_schemes": {

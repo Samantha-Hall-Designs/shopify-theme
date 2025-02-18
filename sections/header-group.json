@@ -16,18 +16,10 @@
         "enable_language_selector": false
       },
       "blocks": {
-        "announcement_wEmkjh": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "The store is closed for Christmas. Orders placed now will be sent out on the 2nd of January",
-            "link": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Made in the UK - Free Delivery over £30",
+            "text": "Free Delivery over £30",
             "link": ""
           }
         },
@@ -40,10 +32,36 @@
         }
       },
       "block_order": [
-        "announcement_wEmkjh",
         "announcement-bar-0",
         "announcement_bmwVW9"
       ]
+    },
+    "announcement_bar_FgXK83": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_aQHBAF": {
+          "type": "announcement",
+          "settings": {
+            "text": "I am away at Crufts on the 6th - 9th of March! Orders will be shipped out after the 10th of March",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_aQHBAF"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-3",
+        "show_line_separator": true,
+        "unsupported_country_text": "",
+        "unsupported_country_link": "",
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     },
     "header": {
       "type": "header",
@@ -67,6 +85,7 @@
   },
   "order": [
     "announcement-bar",
+    "announcement_bar_FgXK83",
     "header"
   ]
 }
