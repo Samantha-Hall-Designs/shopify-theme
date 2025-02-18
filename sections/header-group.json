@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_9cER9w": {
+          "type": "announcement",
+          "settings": {
+            "text": "Come and say hello at Crufts on the 6th - 9th of March!",
+            "link": ""
+          }
+        },
         "announcement_wEmkjh": {
           "type": "announcement",
           "disabled": true,
@@ -38,6 +45,7 @@
         }
       },
       "block_order": [
+        "announcement_9cER9w",
         "announcement_wEmkjh",
         "announcement-bar-0",
         "announcement_bmwVW9"
