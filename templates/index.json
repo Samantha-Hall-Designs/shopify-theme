@@ -50,46 +50,39 @@
         "show_text_below": false
       }
     },
-    "collection_list_XrJEay": {
+    "collection_list_YMGK8k": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_mbMKNg": {
+        "featured_collection_3K3dTx": {
           "type": "featured_collection",
           "settings": {
-            "collection": "greetings-cards"
+            "collection": "backpacks"
           }
         },
-        "featured_collection_kVn8kQ": {
+        "featured_collection_TUknhD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pencil-cases"
+          }
+        },
+        "featured_collection_jjMPaQ": {
           "type": "featured_collection",
           "settings": {
             "collection": "notebooks"
           }
-        },
-        "featured_collection_egLNfk": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vizsla"
-          }
-        },
-        "featured_collection_mhC6VH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "labrador"
-          }
         }
       },
       "block_order": [
-        "featured_collection_mbMKNg",
-        "featured_collection_kVn8kQ",
-        "featured_collection_egLNfk",
-        "featured_collection_mhC6VH"
+        "featured_collection_3K3dTx",
+        "featured_collection_TUknhD",
+        "featured_collection_jjMPaQ"
       ],
       "settings": {
-        "title": "",
+        "title": "Stationery Essentials - tick!",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -139,95 +132,41 @@
         "padding_bottom": 52
       }
     },
-    "image_with_text_8Pe9Tx": {
-      "type": "image-with-text",
+    "collection_list_93yja8": {
+      "type": "collection-list",
       "blocks": {
-        "heading_6DKJyg": {
-          "type": "heading",
+        "featured_collection_imGJFi": {
+          "type": "featured_collection",
           "settings": {
-            "heading": "Creating Connections",
-            "heading_size": "h1"
+            "collection": "german-shorthaired-pointer"
           }
         },
-        "text_kwLMz3": {
-          "type": "text",
+        "featured_collection_UUVELL": {
+          "type": "featured_collection",
           "settings": {
-            "text": "<p>Do you love to walk in the forest with your best friend, ride your horse or give your cat the best hugs? I like to create these memories within my work so you can really connect and resonate with my artwork. For me I have always wanted to find the perfect gift that reminds me of my furry best friend.</p>",
-            "text_style": "body"
+            "collection": "golden-retriever"
+          }
+        },
+        "featured_collection_Jd4QBD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vizsla"
           }
         }
       },
       "block_order": [
-        "heading_6DKJyg",
-        "text_kwLMz3"
+        "featured_collection_imGJFi",
+        "featured_collection_UUVELL",
+        "featured_collection_Jd4QBD"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_6948.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_pTafe3": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_Q9aYBN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2590copy.jpg",
-            "title": "<strong>Dog breed specific</strong>",
-            "text": "<p>As a dog owner myself, I have always wanted to find the perfect gift with my dog on it! That's why I have been curating a list of dog breeds (which regularly gets added to)  to create patterns for. I really want to do as many dog illustrations as I can!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_UgLDzQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3981-Edit_square.jpg",
-            "title": "<strong>Hand painted and designed by me in Worthing</strong>",
-            "text": "<p>Did you know all of my patterns are hand painted with watercolours and then created in Photoshop by me? Everything is designed in my studio in Worthing on the south coast.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_tJFDzL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1305_dfdddfaf-188c-4f5c-8735-38058327d0c9.jpg",
-            "title": "<strong>Made in the UK </strong>",
-            "text": "<p>I use wonderful UK manufacturers to turn my creations into products that bring joy to everyone. I want to support British manufacturing and other local businesses.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_Q9aYBN",
-        "column_UgLDzQ",
-        "column_tJFDzL"
-      ],
-      "settings": {
-        "title": "",
+        "title": "Love Dogs?",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -329,10 +268,9 @@
   },
   "order": [
     "image_banner",
-    "collection_list_XrJEay",
+    "collection_list_YMGK8k",
     "rich_text_jeNtax",
-    "image_with_text_8Pe9Tx",
-    "multicolumn_pTafe3",
+    "collection_list_93yja8",
     "multicolumn_fyeTxX",
     "multirow_6Mh8FQ"
   ]
