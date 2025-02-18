@@ -132,6 +132,61 @@
         "padding_bottom": 8
       }
     },
+    "slideshow_PPHMAh": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_HNeRWw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3981-Edit_small_3f3ac147-015a-4198-926f-280f35e7bfaf.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Hey there! I am Sam, a one woman band who loves to paint and design dog and wildlife inspired designs.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_QRGA4H": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3881-Edit.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "<em>I love creating emotional connections through eco friendly, reduced-plastic products that capture the sensory experience of the outdoors.</em>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_HNeRWw",
+        "slide_QRGA4H"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "image_with_text_mz3xkE": {
       "type": "image-with-text",
       "blocks": {
@@ -317,6 +372,7 @@
     "image_banner",
     "collection_list_YMGK8k",
     "rich_text_jeNtax",
+    "slideshow_PPHMAh",
     "image_with_text_mz3xkE",
     "collection_list_93yja8",
     "multicolumn_fyeTxX",
