@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Shop up to 50% off in the January Sale</strong>",
+            "heading": "<strong>Back in stock - Soft Velvety Cushions are back</strong>",
             "heading_size": "h1"
           }
         },
@@ -23,7 +23,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Sale",
-            "button_link_1": "https://samanthahall.design/collections/sale",
+            "button_link_1": "shopify://collections/cushions",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -36,8 +36,9 @@
         "buttons_hEH4hA"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_3548.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify://shop_images/IMG_2590_copy.jpg",
+        "image_2": "shopify://shop_images/IMG_2628_copy.jpg",
+        "image_overlay_opacity": 20,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
