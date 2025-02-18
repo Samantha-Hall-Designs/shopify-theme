@@ -132,6 +132,53 @@
         "padding_bottom": 8
       }
     },
+    "image_with_text_mz3xkE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cnnYF8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Personalised Gifts for Animal Lovers",
+            "heading_size": "h1"
+          }
+        },
+        "text_b8aFWn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Need the ideal gift for an animal lover? I have got you covered. You can now personalise any notebook with gold foil. Get their name stamped on the front to make your gift extra special.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_67gxRd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Personalised",
+            "button_link": "shopify://collections/personalised",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cnnYF8",
+        "text_b8aFWn",
+        "button_67gxRd"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_2524_copy.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection_list_93yja8": {
       "type": "collection-list",
       "blocks": {
@@ -270,6 +317,7 @@
     "image_banner",
     "collection_list_YMGK8k",
     "rich_text_jeNtax",
+    "image_with_text_mz3xkE",
     "collection_list_93yja8",
     "multicolumn_fyeTxX",
     "multirow_6Mh8FQ"
