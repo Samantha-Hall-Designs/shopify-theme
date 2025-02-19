@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -24,7 +33,7 @@
         "text_HdFgWy": {
           "type": "text",
           "settings": {
-            "text": "<p>Hi there! I am Samantha and I live in Worthing on the south coast of England. Nestled between the South Downs national park and the sea, inspiration comes in from everywhere. I live here with my husband where we love to hike, adventure and of course a good pub lunch! Who doesn’t?<\/p>"
+            "text": "<p>Hi there! My name is Sam and I am the designer behind Samantha Hall Designs. I create thoughtfully inspired gifts featuring dogs, cats, nature, and animals. Creating emotional connections through ecofriendly, reduced-plastic products that capture the sensory experience of the outdoors.</p>"
           }
         },
         "button_WkhTyB": {
@@ -66,7 +75,7 @@
         "text_NrHrb8": {
           "type": "text",
           "settings": {
-            "text": "<p>Ever since I was small, I have loved to create and design. I loved to paint and draw when I was young. Many summers were spent creating while I was camping in France by the fireside with my parents. Once I was big enough to go to university, I went to the Manchester School of Art and aquired a degree in Printed Textiles.<\/p>",
+            "text": "<p>Ever since I was small, I have loved to create and design. I loved to paint and draw when I was young. Many summers were spent creating while I was camping in France by the fireside with my parents. Once I was big enough to go to university, I went to the Manchester School of Art and aquired a degree in Printed Textiles.</p>",
             "text_style": "body"
           }
         },
@@ -85,7 +94,7 @@
         "button_QRMt3m"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3981-Edit.jpg",
+        "image": "shopify://shop_images/IMG_3981-Edit.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -113,7 +122,7 @@
         "text_UK64H3": {
           "type": "text",
           "settings": {
-            "text": "<p>I started my career as a Visual Merchandiser and I really enjoyed creating shop displays but there was always this itch to design patterns and to paint. One day I took the leap (my husband was a bit scared!) and I started my own business.<\/p>"
+            "text": "<p>I started my career as a Visual Merchandiser and I really enjoyed creating shop displays but there was always this itch to design patterns and to paint. One day I took the leap (my husband was a bit scared!) and I started my own business.</p>"
           }
         },
         "button_XJfDBz": {
@@ -155,7 +164,7 @@
         "text_gMpWQA": {
           "type": "text",
           "settings": {
-            "text": "<p>I have always been in love with the traditional methods of painting. One of my favourite types of paint to use is watercolours. I love to layer and how delicate my art can be by using this type of medium.  Once I have created motifs ready for pattern design, I then scan everything in and use Adobe Photoshop to create my patterns.<\/p><p>I am inspired by the great outdoors and British Wildlife.<\/p>",
+            "text": "<p>I have always been in love with the traditional methods of painting. One of my favourite types of paint to use is watercolours. I love to layer and how delicate my art can be by using this type of medium.  Once I have created motifs ready for pattern design, I then scan everything in and use Adobe Photoshop to create my patterns.</p><p>I am inspired by the great outdoors and British Wildlife.</p>",
             "text_style": "body"
           }
         },
@@ -174,7 +183,7 @@
         "button_MeqMtV"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/me_painting_2_72dpi_abfad52d-e8e1-4baa-af98-2458b03de1b2.jpg",
+        "image": "shopify://shop_images/me_painting_2_72dpi_abfad52d-e8e1-4baa-af98-2458b03de1b2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -237,8 +246,8 @@
         "column_8K9XGH": {
           "type": "column",
           "settings": {
-            "title": "<strong>A Greener Business<\/strong>",
-            "text": "<p>With everything I do, I try not to use plastic or harsh chemicals. This could be in the packaging I use, the components that make up fabric or with branding and general office equipment.<\/p>",
+            "title": "<strong>A Greener Business</strong>",
+            "text": "<p>With everything I do, I try not to use plastic or harsh chemicals. This could be in the packaging I use, the components that make up fabric or with branding and general office equipment.</p>",
             "link_label": "",
             "link": ""
           }
@@ -246,8 +255,8 @@
         "column_AtzgH7": {
           "type": "column",
           "settings": {
-            "title": "<strong>Made in the UK<\/strong>",
-            "text": "<p>With regards to how I get my products made, I use local manufacturers within the UK. This can be big factories or small thriving little businesses. I love to support local and manufacturing in the UK.<\/p>",
+            "title": "<strong>Sustainability in Mind</strong>",
+            "text": "<p>With regards to how I get my products made, I use local manufacturers within the UK and overseas who have excellent sustainability credentials. This can be big factories or small thriving little businesses. I love to support sustainable manufacturing.</p>",
             "link_label": "",
             "link": ""
           }
@@ -255,8 +264,8 @@
         "column_xNWcBn": {
           "type": "column",
           "settings": {
-            "title": "<strong>I Design Every Product<\/strong>",
-            "text": "<p>Every product is designed and created in my studio in Worthing. This includes greeting cards, notebooks, accessories, homewares and much more!<\/p>",
+            "title": "<strong>I Design Every Product</strong>",
+            "text": "<p>Every product is designed and created in my studio in Worthing. This includes greeting cards, notebooks, accessories, homewares and much more!</p>",
             "link_label": "",
             "link": ""
           }
@@ -290,10 +299,10 @@
         "row_JQPghg": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BA574828-3F84-4DFB-9277-B723143B88C0.jpg",
+            "image": "shopify://shop_images/BA574828-3F84-4DFB-9277-B723143B88C0.jpg",
             "caption": "",
             "heading": "Examples of Events I have Exhbited at",
-            "text": "<p>Country Living Show<\/p><p>Spring Show Live!<\/p><p>Winter Fair - South of England Show<\/p><p>Crufts<\/p><p>Etsy Fair Brighton<\/p><p><\/p>",
+            "text": "<p>Country Living Show</p><p>Spring Show Live!</p><p>Winter Fair - South of England Show</p><p>Crufts</p><p>Etsy Fair Brighton</p><p></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -301,10 +310,10 @@
         "row_TXmhYK": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-02_at_10.20.06.png",
+            "image": "shopify://shop_images/Screenshot_2024-05-02_at_10.20.06.png",
             "caption": "",
             "heading": "Products Seen In",
-            "text": "<p>Country Living Magazine<\/p><p>Your Dog<\/p><p>Hund im Gluck<\/p><p>Mein Schones Land - Unser Wald<\/p><p>Inside Crochet<\/p><p><\/p>",
+            "text": "<p>Country Living Magazine</p><p>Your Dog</p><p>Hund im Gluck</p><p>Mein Schones Land - Unser Wald</p><p>Inside Crochet</p><p></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -312,10 +321,10 @@
         "row_NJgJrX": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dino_dogs_10x10cm_copy.jpg",
+            "image": "shopify://shop_images/Dino_dogs_10x10cm_copy.jpg",
             "caption": "",
             "heading": "Collaborations",
-            "text": "<p>Dino Dogs Pattern - Barker and Browns<\/p><p>Christmas Card - Serbias Forgotten Paws<\/p>",
+            "text": "<p>Dino Dogs Pattern - Barker and Browns</p><p>Christmas Card - Serbias Forgotten Paws</p>",
             "button_label": "",
             "button_link": ""
           }
