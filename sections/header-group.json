@@ -14,18 +14,17 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_wEmkjh": {
+          "type": "announcement",
+          "settings": {
+            "text": "Orders placed now will be sent out on the 26th of February",
+            "link": ""
+          }
+        },
         "announcement_9cER9w": {
           "type": "announcement",
           "settings": {
             "text": "Come and say hello at Crufts on the 6th - 9th of March!",
-            "link": ""
-          }
-        },
-        "announcement_wEmkjh": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "The store is closed for Christmas. Orders placed now will be sent out on the 2nd of January",
             "link": ""
           }
         },
@@ -45,8 +44,8 @@
         }
       },
       "block_order": [
-        "announcement_9cER9w",
         "announcement_wEmkjh",
+        "announcement_9cER9w",
         "announcement-bar-0",
         "announcement_bmwVW9"
       ],
