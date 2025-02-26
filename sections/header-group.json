@@ -58,6 +58,7 @@
       "blocks": {
         "announcement_aQHBAF": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Orders placed now will be sent out on the 26th of February",
             "link": ""
