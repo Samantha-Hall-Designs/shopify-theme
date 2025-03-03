@@ -27,7 +27,7 @@
             "button_style_secondary_1": false,
             "button_label_2": "Shop Rulers",
             "button_link_2": "shopify://collections/rulers",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
