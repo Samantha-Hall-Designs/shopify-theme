@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_9cER9w": {
-          "type": "announcement",
-          "settings": {
-            "text": "I am away at Crufts on the 6th - 9th of March! Orders will be shipped out on the 10th of March",
-            "link": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -37,7 +30,6 @@
         }
       },
       "block_order": [
-        "announcement_9cER9w",
         "announcement-bar-0",
         "announcement_bmwVW9"
       ],
@@ -58,9 +50,8 @@
       "blocks": {
         "announcement_aQHBAF": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Orders placed now will be sent out on the 26th of February",
+            "text": "I am away at Crufts on the 6th - 9th of March! Orders will be shipped out after the 10th of March",
             "link": ""
           }
         }
