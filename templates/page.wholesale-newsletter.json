@@ -61,6 +61,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
+        "heading_align": "left",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -117,6 +118,7 @@
       "settings": {
         "title": "I am proudly stocked in stores across the globe",
         "heading_size": "h2",
+        "heading_align": "center",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
