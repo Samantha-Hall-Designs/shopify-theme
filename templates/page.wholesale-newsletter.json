@@ -75,6 +75,48 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_N9tMGU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RtiLWf": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_TFNwaX": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><br/></h2><h1>Thank you for considering to partner with me and my products. I would love to hear from you and to find out more about your store!</h1><p> To find out more about price lists. products available and much more, please email me at: <strong>hello@samanthahall.design</strong></p><p>Alternatively, you can view my entire catalogue on Faire here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p><p> </p>"
+          }
+        },
+        "button_faFrBm": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RtiLWf",
+        "text_TFNwaX",
+        "button_faFrBm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "newsletter_f8K6PJ": {
       "type": "newsletter",
       "blocks": {
@@ -114,6 +156,7 @@
   "order": [
     "main",
     "multicolumn_VkgM7R",
+    "rich_text_N9tMGU",
     "newsletter_f8K6PJ"
   ]
 }
