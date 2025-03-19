@@ -146,7 +146,24 @@
         "text_TFNwaX": {
           "type": "text",
           "settings": {
-            "text": "<h2><br/></h2><h1>I would love to hear from you and to find out more about your store!</h1><p> To find out more about price lists. products available and much more, please email me at: <strong>hello@samanthahall.design</strong></p><p>Alternatively, you can view my entire catalogue on Faire here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p><p> </p>"
+            "text": "<h2></h2><h1>I would love to hear from you and to find out more about your store!</h1><p> To find out more about price lists. products available and much more, please email me at</p>"
+          }
+        },
+        "button_GEXq3b": {
+          "type": "button",
+          "settings": {
+            "button_label": "hello@samanthahall.design",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_dwWAMw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alternatively, you can view my entire catalogue on Faire here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p>"
           }
         },
         "button_faFrBm": {
@@ -164,6 +181,8 @@
       "block_order": [
         "heading_RtiLWf",
         "text_TFNwaX",
+        "button_GEXq3b",
+        "text_dwWAMw",
         "button_faFrBm"
       ],
       "settings": {
