@@ -1,5 +1,6 @@
 .multicolumn .title {
   margin: 0;
+  flex: 1;
 }
 
 .multicolumn.no-heading .title {
