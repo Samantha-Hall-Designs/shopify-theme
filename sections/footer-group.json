@@ -15,7 +15,7 @@
       "type": "footer",
       "settings": {
         "color_scheme": "scheme-2",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "Subscribe to my newsletter for 10% off your first order",
         "enable_follow_on_shop": false,
         "show_social": true,
