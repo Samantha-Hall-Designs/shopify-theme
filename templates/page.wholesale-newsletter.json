@@ -153,7 +153,7 @@
           "type": "button",
           "settings": {
             "button_label": "hello@samanthahall.design",
-            "button_link": "",
+            "button_link": "mailto:hello@samanthahall.design",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
