@@ -75,6 +75,62 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_YRetYD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DeAM3e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/inspired_logo_RGB_version_1_1296x_64fbddb5-84dd-4cc7-8cb0-9587e518aed6.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qWYmdd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/logo-v2.svg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ym8K4h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/EfF8ydW-600x600.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DeAM3e",
+        "column_qWYmdd",
+        "column_ym8K4h"
+      ],
+      "settings": {
+        "title": "I am proudly stocked in stores across the globe",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_N9tMGU": {
       "type": "rich-text",
       "blocks": {
@@ -88,7 +144,7 @@
         "text_TFNwaX": {
           "type": "text",
           "settings": {
-            "text": "<h2><br/></h2><h1>Thank you for considering to partner with me and my products. I would love to hear from you and to find out more about your store!</h1><p> To find out more about price lists. products available and much more, please email me at: <strong>hello@samanthahall.design</strong></p><p>Alternatively, you can view my entire catalogue on Faire here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p><p> </p>"
+            "text": "<h2><br/></h2><h1>I would love to hear from you and to find out more about your store!</h1><p> To find out more about price lists. products available and much more, please email me at: <strong>hello@samanthahall.design</strong></p><p>Alternatively, you can view my entire catalogue on Faire here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p><p> </p>"
           }
         },
         "button_faFrBm": {
@@ -113,8 +169,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "newsletter_f8K6PJ": {
@@ -156,6 +212,7 @@
   "order": [
     "main",
     "multicolumn_VkgM7R",
+    "multicolumn_YRetYD",
     "rich_text_N9tMGU",
     "newsletter_f8K6PJ"
   ]
