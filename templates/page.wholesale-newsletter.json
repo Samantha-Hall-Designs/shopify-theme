@@ -22,6 +22,19 @@
     "newsletter_f8K6PJ": {
       "type": "newsletter",
       "blocks": {
+        "heading_HGQDi4": {
+          "type": "heading",
+          "settings": {
+            "heading": "If you would like to hear about new products and trade shows I am attending, you can sign up to my trade newsletter below.",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_KEPFpN": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections, products and events</p>"
+          }
+        },
         "email_form_XPncMQ": {
           "type": "email_form",
           "settings": {
@@ -30,6 +43,8 @@
         }
       },
       "block_order": [
+        "heading_HGQDi4",
+        "paragraph_KEPFpN",
         "email_form_XPncMQ"
       ],
       "settings": {
