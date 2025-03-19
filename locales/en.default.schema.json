@@ -2678,7 +2678,13 @@
           }
         },
         "email_form": {
-          "name": "Email form"
+          "name": "Email form",
+          "settings": {
+            "tags": {
+              "label": "Tags",
+              "default": "newsletter"
+            }
+          }
         }
       },
       "presets": {
