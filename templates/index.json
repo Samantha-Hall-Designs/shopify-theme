@@ -11,22 +11,6 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "blocks": {
-        "buttons_hEH4hA": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "shopify://collections/washi-tape",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "shopify://collections/rulers",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "buttons_hEH4hA"
-      ],
       "settings": {
         "image": "shopify://shop_images/Untitled_7.png",
         "image_overlay_opacity": 0,
