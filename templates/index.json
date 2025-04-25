@@ -12,33 +12,24 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Brand New Stationery - Beautiful New Wooden Rulers and Washi Tape</strong>",
-            "heading_size": "h1"
-          }
-        },
         "buttons_hEH4hA": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Washi Tape",
+            "button_label_1": "",
             "button_link_1": "shopify://collections/washi-tape",
             "button_style_secondary_1": false,
-            "button_label_2": "Shop Rulers",
+            "button_label_2": "",
             "button_link_2": "shopify://collections/rulers",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading",
         "buttons_hEH4hA"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_35002copy.jpg",
-        "image_2": "shopify://shop_images/IMG_3452_3_copy.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify://shop_images/Untitled_4_3e6bfaa3-b2e4-466d-9e84-25521b21d570.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -319,6 +310,7 @@
       "settings": {
         "title": "Featured in",
         "heading_size": "h2",
+        "heading_align": "left",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
