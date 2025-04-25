@@ -60,13 +60,13 @@
         "featured_collection_3K3dTx": {
           "type": "featured_collection",
           "settings": {
-            "collection": "backpacks"
+            "collection": "washi-tape"
           }
         },
         "featured_collection_TUknhD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pencil-cases"
+            "collection": "rulers"
           }
         },
         "featured_collection_jjMPaQ": {
@@ -223,7 +223,7 @@
         "button_67gxRd"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_2524_copy.jpg",
+        "image": "shopify://shop_images/IMG_3427_3_2e884220-b2a4-424a-b4ff-7d45349c3194.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
