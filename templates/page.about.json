@@ -26,14 +26,21 @@
         "heading_Ajm4A3": {
           "type": "heading",
           "settings": {
-            "heading": "My Story",
+            "heading": "<strong>People, Planet, Paws: our sustainable journey</strong>",
             "heading_size": "h1"
           }
         },
-        "text_HdFgWy": {
+        "heading_ffWkGp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Crafting with conscience since 2017",
+            "heading_size": "h2"
+          }
+        },
+        "text_t47yzq": {
           "type": "text",
           "settings": {
-            "text": "<p>Hi there! My name is Sam and I am the designer behind Samantha Hall Designs. I create thoughtfully inspired gifts featuring dogs, cats, nature, and animals. Creating emotional connections through ecofriendly, reduced-plastic products that capture the sensory experience of the outdoors.</p>"
+            "text": "<p>At Samantha Hall Designs, being responsible towards the environment isn't just a trend, it's been woven into the fabric of our business since our founding in 2017. As a female-owned micro business operating from a home office, we're committed to the triple bottom line of People, Planet and Profit, guiding every decision from product design to delivery.</p>"
           }
         },
         "button_WkhTyB": {
@@ -50,7 +57,8 @@
       },
       "block_order": [
         "heading_Ajm4A3",
-        "text_HdFgWy",
+        "heading_ffWkGp",
+        "text_t47yzq",
         "button_WkhTyB"
       ],
       "settings": {
@@ -68,14 +76,14 @@
         "heading_GdG7Kn": {
           "type": "heading",
           "settings": {
-            "heading": "Where  it Started",
+            "heading": "<strong>Shop with purpose</strong>",
             "heading_size": "h1"
           }
         },
         "text_NrHrb8": {
           "type": "text",
           "settings": {
-            "text": "<p>Ever since I was small, I have loved to create and design. I loved to paint and draw when I was young. Many summers were spent creating while I was camping in France by the fireside with my parents. Once I was big enough to go to university, I went to the Manchester School of Art and aquired a degree in Printed Textiles.</p>",
+            "text": "<p>When you choose Samantha Hall Designs, you're not just getting beautifully crafted, pet-inspired stationery; you're supporting a business where impact isn't an afterthought but fundamental to how we operate. </p><p><em>\"We're proud to demonstrate that beautiful, meaningful pet-inspired stationery can be created while respecting and protecting our environment.\"</em> - Samantha Hall, Founder</p>",
             "text_style": "body"
           }
         },
@@ -119,12 +127,6 @@
             "heading_size": "h1"
           }
         },
-        "text_UK64H3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I started my career as a Visual Merchandiser and I really enjoyed creating shop displays but there was always this itch to design patterns and to paint. One day I took the leap (my husband was a bit scared!) and I started my own business.</p>"
-          }
-        },
         "button_XJfDBz": {
           "type": "button",
           "settings": {
@@ -139,7 +141,6 @@
       },
       "block_order": [
         "heading_E4xFRy",
-        "text_UK64H3",
         "button_XJfDBz"
       ],
       "settings": {
@@ -151,24 +152,120 @@
         "padding_bottom": 52
       }
     },
-    "image_with_text_ih4cYW": {
-      "type": "image-with-text",
+    "rich_text_dH3iFP": {
+      "type": "rich-text",
       "blocks": {
-        "heading_6EFJdh": {
+        "heading_NcEFcJ": {
           "type": "heading",
           "settings": {
-            "heading": "How I create",
+            "heading": "<strong>Our reduced plastic guarantee</strong>",
             "heading_size": "h1"
           }
         },
-        "text_gMpWQA": {
+        "text_rmfR6a": {
           "type": "text",
           "settings": {
-            "text": "<p>I have always been in love with the traditional methods of painting. One of my favourite types of paint to use is watercolours. I love to layer and how delicate my art can be by using this type of medium.  Once I have created motifs ready for pattern design, I then scan everything in and use Adobe Photoshop to create my patterns.</p><p>I am inspired by the great outdoors and British Wildlife.</p>",
+            "text": "<p>We've established a strict reduced-plastic policy throughout our entire operation:</p><ul><li>Custom, durable card packaging made from FSC-certified materials</li><li>Plastic-free shipping with paper tape, cardboard void fill, and compostable mailers</li><li>Natural alternatives for traditionally plastic components</li><li>Zero single-use plastics in the office</li></ul><p>Our products are designed with the planet in mind while delighting our customers, proving that beautiful design and environmental responsibility can go hand-in-hand.</p><p>We are currently exploring plastic-free options for our stickers, so we can be officially plastic-free. </p>"
+          }
+        },
+        "button_pEYmxe": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NcEFcJ",
+        "text_rmfR6a",
+        "button_pEYmxe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_Frg39B": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TrHhCA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Responsibly sourced materials</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_xiYpnA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our sustainable journey begins with carefully selected partners who share our environmental values:</p><ul><li><strong>FSC-certified paper</strong>: All our notebooks and cards use paper from responsibly managed forests</li><li><strong>Eco-friendly dyes</strong>: Our fabric products feature water-based dyes that minimise environmental impact</li><li><strong>Local partnerships</strong>: We work with a Brighton seamstress for our scrunchies and cushions, supporting our community while reducing transportation emissions</li><li><strong>European suppliers</strong>: Our materials come from sources meeting strict environmental standards</li></ul><p>We believe transparency matters. Our primary manufacturer's carbon reporting demonstrates their commitment to continuous improvement in reducing environmental impact.</p>"
+          }
+        },
+        "button_xnhLnj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click to view carbon report",
+            "button_link": "https://www.windlesgroup.co.uk/carbon-reports",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_nV4YLL": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TrHhCA",
+        "text_xiYpnA",
+        "button_xnhLnj",
+        "button_nV4YLL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_BmtDKw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DWw6qh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Helping animal charities raise funds</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_jmfUUB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beyond environmental sustainability, we believe in social responsibility. We've established a special partnership with <a href=\"https://www.serbias-forgotten-paws.com/\"><span style=\"text-decoration:underline\">Serbia's Forgotten Paws</span></a>, where:</p><ul><li>We donate surplus and sale products to support rescue dogs</li><li>We've created custom Christmas cards specifically for the charity to sell</li><li>This initiative holds special meaning for us as it's where our own rescue dog, Moko, found his forever home</li></ul><p>Through these contributions, we help generate vital funding for animal rescue operations while giving our products a meaningful second life.</p>",
             "text_style": "body"
           }
         },
-        "button_MeqMtV": {
+        "button_zQiGVy": {
           "type": "button",
           "settings": {
             "button_label": "",
@@ -178,12 +275,12 @@
         }
       },
       "block_order": [
-        "heading_6EFJdh",
-        "text_gMpWQA",
-        "button_MeqMtV"
+        "heading_DWw6qh",
+        "text_jmfUUB",
+        "button_zQiGVy"
       ],
       "settings": {
-        "image": "shopify://shop_images/me_painting_2_72dpi_abfad52d-e8e1-4baa-af98-2458b03de1b2.jpg",
+        "image": "shopify://shop_images/IMG_3981-Edit.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -201,13 +298,6 @@
     "rich_text_FPN8zY": {
       "type": "rich-text",
       "blocks": {
-        "heading_Tbe7NU": {
-          "type": "heading",
-          "settings": {
-            "heading": "What makes me Unique",
-            "heading_size": "h1"
-          }
-        },
         "text_K7PKCG": {
           "type": "text",
           "settings": {
@@ -227,7 +317,6 @@
         }
       },
       "block_order": [
-        "heading_Tbe7NU",
         "text_K7PKCG",
         "button_Y7pN9y"
       ],
@@ -240,57 +329,88 @@
         "padding_bottom": 52
       }
     },
-    "multicolumn_Jtf6fr": {
-      "type": "multicolumn",
+    "rich_text_rmt4fC": {
+      "type": "rich-text",
       "blocks": {
-        "column_8K9XGH": {
-          "type": "column",
+        "heading_MVWcE6": {
+          "type": "heading",
           "settings": {
-            "title": "<strong>A Greener Business</strong>",
-            "text": "<p>With everything I do, I try not to use plastic or harsh chemicals. This could be in the packaging I use, the components that make up fabric or with branding and general office equipment.</p>",
-            "link_label": "",
-            "link": ""
+            "heading": "<strong>Committed to SDG 15: Life on Land</strong>",
+            "heading_size": "h1"
           }
         },
-        "column_AtzgH7": {
-          "type": "column",
+        "text_8fhMHe": {
+          "type": "text",
           "settings": {
-            "title": "<strong>Sustainable Manufacturing</strong>",
-            "text": "<p>With regards to how I get my products made, I use local manufacturers within the UK and overseas who have excellent sustainability credentials. This can be big factories or small thriving little businesses. I love to support sustainable manufacturing.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Our business practices align with the UN Sustainable Development Goal 15, focusing on protecting life on land:</p><ul><li>Sourcing raw materials from FSC-managed forests</li><li>Using responsibly sourced cotton for textile products</li><li>Saving energy and reducing waste across operations</li><li>Exploring partnerships with Forestry England to support tree planting</li><li>Working to establish wild areas that encourage biodiversity</li></ul><p>We understand that the wellbeing of pets and wildlife is intrinsically linked to the health of our planet.</p>"
           }
         },
-        "column_xNWcBn": {
-          "type": "column",
+        "button_YN4mbz": {
+          "type": "button",
           "settings": {
-            "title": "<strong>I Design Every Product</strong>",
-            "text": "<p>Every product is designed and created in my studio in Worthing. This includes greeting cards, notebooks, accessories, homewares and much more!</p>",
-            "link_label": "",
-            "link": ""
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column_8K9XGH",
-        "column_AtzgH7",
-        "column_xNWcBn"
+        "heading_MVWcE6",
+        "text_8fhMHe",
+        "button_YN4mbz"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_E6JUJw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LdPfGk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Circular economy in action</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_9QxWJL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're working to close the loop on waste through innovative practices:</p><ul><li>Reusing shipping materials from our suppliers for customer orders</li><li>Donating unsold products to charities for resale</li><li>Ensuring all products can be recycled or repurposed</li><li>Transforming damaged goods into new products</li><li>Providing clear disposal instructions for all packaging</li></ul><p>These circular practices help minimise our environmental footprint while maximising the value of resources.</p>"
+          }
+        },
+        "button_D9tprV": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LdPfGk",
+        "text_9QxWJL",
+        "button_D9tprV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multirow_QVGGg6": {
@@ -301,8 +421,8 @@
           "settings": {
             "image": "shopify://shop_images/BA574828-3F84-4DFB-9277-B723143B88C0.jpg",
             "caption": "",
-            "heading": "Examples of Events I have Exhbited at",
-            "text": "<p>Country Living Show</p><p>Spring Show Live!</p><p>Winter Fair - South of England Show</p><p>Crufts</p><p>Etsy Fair Brighton</p><p></p>",
+            "heading": "<strong>Reducing our carbon footprint</strong>",
+            "text": "<p>We're taking concrete steps to minimise our climate impact:</p><ul><li>Transitioning to an electric van for event transportation</li><li>Consolidating shipments to reduce delivery journeys</li><li>Using renewable energy for our electricity needs</li><li>Implementing a 'switch-off' policy for all equipment</li><li>Exploring carbon offset programs for unavoidable emissions</li><li>Enrolling in Carbon Literacy training to deepen our understanding</li></ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -312,19 +432,8 @@
           "settings": {
             "image": "shopify://shop_images/Screenshot_2024-05-02_at_10.20.06.png",
             "caption": "",
-            "heading": "Products Seen In",
-            "text": "<p>Country Living Magazine</p><p>Your Dog</p><p>Hund im Gluck</p><p>Mein Schones Land - Unser Wald</p><p>Inside Crochet</p><p></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_NJgJrX": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Dino_dogs_10x10cm_copy.jpg",
-            "caption": "",
-            "heading": "Collaborations",
-            "text": "<p>Dino Dogs Pattern - Barker and Browns</p><p>Christmas Card - Serbias Forgotten Paws</p>",
+            "heading": "<strong>Our sustainable roadmap</strong>",
+            "text": "<p>Our journey doesn't stop here. We're committed to continuous improvement through:</p><ul><li>Setting measurable carbon reduction targets</li><li>Expanding circular economy initiatives</li><li>Researching new eco-friendly materials</li><li>Developing end-of-life programs for our products</li><li>Creating educational content about product care and longevity</li><li>Strengthening our relationship with animal welfare organisations</li></ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -332,8 +441,7 @@
       },
       "block_order": [
         "row_JQPghg",
-        "row_TXmhYK",
-        "row_NJgJrX"
+        "row_TXmhYK"
       ],
       "settings": {
         "image_height": "medium",
@@ -350,6 +458,30 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_eXhPch": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wE4gt4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join us as we work toward a world where humans, animals, and nature thrive together.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wE4gt4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -357,9 +489,13 @@
     "rich_text_8YBXY9",
     "image_with_text_i93773",
     "rich_text_yqD7wW",
-    "image_with_text_ih4cYW",
+    "rich_text_dH3iFP",
+    "rich_text_Frg39B",
+    "image_with_text_BmtDKw",
     "rich_text_FPN8zY",
-    "multicolumn_Jtf6fr",
-    "multirow_QVGGg6"
+    "rich_text_rmt4fC",
+    "rich_text_E6JUJw",
+    "multirow_QVGGg6",
+    "rich_text_eXhPch"
   ]
 }
