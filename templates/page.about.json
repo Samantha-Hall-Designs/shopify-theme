@@ -397,7 +397,7 @@
       "settings": {
         "title": "<strong>Committed to SDG 15: Life on Land</strong>",
         "heading_size": "h1",
-        "heading_align": "left",
+        "heading_align": "center",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
@@ -410,48 +410,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_rmt4fC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_MVWcE6": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Committed to SDG 15: Life on Land</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_8fhMHe": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our business practices align with the UN Sustainable Development Goal 15, focusing on protecting life on land:</p><ul><li>Sourcing raw materials from FSC-managed forests</li><li>Using responsibly sourced cotton for textile products</li><li>Saving energy and reducing waste across operations</li><li>Exploring partnerships with Forestry England to support tree planting</li><li>Working to establish wild areas that encourage biodiversity</li></ul><p>We understand that the wellbeing of pets and wildlife is intrinsically linked to the health of our planet.</p>"
-          }
-        },
-        "button_YN4mbz": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_MVWcE6",
-        "text_8fhMHe",
-        "button_YN4mbz"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "rich_text_E6JUJw": {
@@ -578,7 +536,6 @@
     "image_with_text_e3EEyA",
     "rich_text_FPN8zY",
     "multicolumn_dpwVWF",
-    "rich_text_rmt4fC",
     "rich_text_E6JUJw",
     "multirow_QVGGg6",
     "rich_text_eXhPch"
