@@ -295,6 +295,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_e3EEyA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9KNrR6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Helping animal charities raise funds</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_hBcKaa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beyond environmental sustainability, we believe in social responsibility. We've established a special partnership with <a href=\"https://www.serbias-forgotten-paws.com/\"><span style=\"text-decoration:underline\">Serbia's Forgotten Paws</span></a>, where:</p><ul><li>We donate surplus and sale products to support rescue dogs</li><li>We've created custom Christmas cards specifically for the charity to sell</li><li>This initiative holds special meaning for us as it's where our own rescue dog, Moko, found his forever home</li></ul><p>Through these contributions, we help generate vital funding for animal rescue operations while giving our products a meaningful second life.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_XkUP3G": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9KNrR6",
+        "text_hBcKaa",
+        "button_XkUP3G"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/sfp_visual_square_copy.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_FPN8zY": {
       "type": "rich-text",
       "blocks": {
@@ -327,6 +374,42 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multicolumn_dpwVWF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hnUNRg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-04-30_at_10.51.46.png",
+            "title": "",
+            "text": "<p>Our business practices align with the UN Sustainable Development Goal 15, focusing on protecting life on land:</p><ul><li>Sourcing raw materials from FSC-managed forests</li><li>Using responsibly sourced cotton for textile products</li><li>Saving energy and reducing waste across operations</li><li>Exploring partnerships with Forestry England to support tree planting</li><li>Working to establish wild areas that encourage biodiversity</li></ul><p>We understand that the wellbeing of pets and wildlife is intrinsically linked to the health of our planet.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hnUNRg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Committed to SDG 15: Life on Land</strong>",
+        "heading_size": "h1",
+        "heading_align": "left",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Find out more here",
+        "button_link": "https://sdgs.un.org/goals/goal15",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_rmt4fC": {
@@ -492,7 +575,9 @@
     "rich_text_dH3iFP",
     "rich_text_Frg39B",
     "image_with_text_BmtDKw",
+    "image_with_text_e3EEyA",
     "rich_text_FPN8zY",
+    "multicolumn_dpwVWF",
     "rich_text_rmt4fC",
     "rich_text_E6JUJw",
     "multirow_QVGGg6",
