@@ -427,7 +427,7 @@
             "image": "shopify://shop_images/IMG_20200510_132959.jpg",
             "caption": "",
             "heading": "<strong>Our sustainable roadmap</strong>",
-            "text": "<p>Our journey doesn't stop here. We're committed to continuous improvement through:</p><ul><li>Setting measurable carbon reduction targets</li><li>Expanding circular economy initiatives</li><li>Researching new sustainable materials</li><li>Developing end-of-life programs for our products</li><li>Creating educational content about product care and longevity</li><li>Strengthening our relationship with animal welfare organisations</li></ul>",
+            "text": "<p>Our journey doesn't stop here. We're committed to continuous improvement through:</p><ul><li>Setting measurable carbon reduction targets</li><li>Expanding circular economy initiatives</li><li>Researching new sustainable materials</li><li>Developing end-of-life programs for our products</li><li>Creating educational content about product care and longevity</li><li>Strengthening our relationship with animal welfare organisations</li></ul><p>Join us as we work towards a world where humans, animals, and nature thrive together.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -453,19 +453,38 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_eXhPch": {
+    "rich_text_aizcxg": {
       "type": "rich-text",
       "blocks": {
-        "heading_wE4gt4": {
+        "heading_ywfdwY": {
           "type": "heading",
           "settings": {
             "heading": "Join us as we work towards a world where humans, animals, and nature thrive together.",
             "heading_size": "h1"
           }
+        },
+        "text_yCK7en": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have have </p>"
+          }
+        },
+        "button_QyKBE9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "heading_wE4gt4"
+        "heading_ywfdwY",
+        "text_yCK7en",
+        "button_QyKBE9"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -490,6 +509,6 @@
     "multicolumn_dpwVWF",
     "rich_text_E6JUJw",
     "multirow_QVGGg6",
-    "rich_text_eXhPch"
+    "rich_text_aizcxg"
   ]
 }
