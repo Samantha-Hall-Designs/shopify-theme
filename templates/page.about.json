@@ -456,24 +456,11 @@
     "rich_text_aizcxg": {
       "type": "rich-text",
       "blocks": {
-        "heading_ywfdwY": {
-          "type": "heading",
-          "settings": {
-            "heading": "Join us as we work towards a world where humans, animals, and nature thrive together.",
-            "heading_size": "h1"
-          }
-        },
-        "text_yCK7en": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you have have </p>"
-          }
-        },
         "button_QyKBE9": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Want to chat more about impact? Drop us a line!",
+            "button_link": "shopify://pages/contact",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -482,8 +469,6 @@
         }
       },
       "block_order": [
-        "heading_ywfdwY",
-        "text_yCK7en",
         "button_QyKBE9"
       ],
       "name": "t:sections.rich-text.presets.name",
