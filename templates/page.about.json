@@ -83,7 +83,7 @@
         "text_NrHrb8": {
           "type": "text",
           "settings": {
-            "text": "<p>When you choose Samantha Hall Designs, you're not just getting beautifully crafted, pet-inspired stationery; you're supporting a business where impact isn't an afterthought but fundamental to how we operate. </p><p><em>\"We're proud to demonstrate that beautiful, meaningful pet-inspired stationery can be created while respecting and protecting our environment.\"</em> - Samantha Hall, Founder</p>",
+            "text": "<p>When you choose Samantha Hall Designs, you're not just getting beautifully crafted, pet-inspired stationery; you're supporting a business where impact isn't an afterthought but fundamental to how we operate. </p><p></p><p><em>\"We're proud to demonstrate that beautiful, meaningful pet-inspired stationery can be created while respecting and protecting our environment.\"</em> - Samantha Hall, Founder</p><p></p>",
             "text_style": "body"
           }
         },
@@ -103,8 +103,8 @@
       ],
       "settings": {
         "image": "shopify://shop_images/IMG_3592.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -187,7 +187,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -207,7 +207,7 @@
         "text_xiYpnA": {
           "type": "text",
           "settings": {
-            "text": "<p>Our sustainable journey begins with carefully selected partners who share our environmental values:</p><ul><li><strong>FSC-certified paper</strong>: All our notebooks and cards use paper from responsibly managed forests</li><li><strong>Eco-friendly dyes</strong>: Our fabric products feature water-based dyes that minimise environmental impact</li><li><strong>Local partnerships</strong>: We work with a Brighton seamstress for our scrunchies and cushions, supporting our community while reducing transportation emissions</li><li><strong>European suppliers</strong>: Our materials come from sources meeting strict environmental standards</li></ul><p>We believe transparency matters. Our primary manufacturer's carbon reporting demonstrates their commitment to continuous improvement in reducing environmental impact.</p>"
+            "text": "<p>Our sustainable journey begins with carefully selected partners who share our environmental values:</p><ul><li><strong>FSC-certified paper</strong>: All our notebooks and cards use paper from responsibly managed forests</li><li><strong>Environmentally-responsible dyes</strong>: Our fabric products feature water-based dyes that minimise environmental impact</li><li><strong>Local partnerships</strong>: We work with a Brighton seamstress for our scrunchies and cushions, supporting our    community while reducing transportation emissions</li><li><strong>European suppliers</strong>: Our materials come from sources meeting strict environmental standards</li></ul><p>We believe transparency matters. Our primary manufacturer's carbon reporting demonstrates their commitment to continuous improvement in reducing environmental impact.</p>"
           }
         },
         "button_xnhLnj": {
@@ -241,7 +241,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -335,7 +335,7 @@
         "column_hnUNRg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-04-30_at_10.51.46.png",
+            "image": "shopify://shop_images/SDG_15.jpg",
             "title": "",
             "text": "<p>Our business practices align with the UN Sustainable Development Goal 15, focusing on protecting life on land:</p><ul><li>Sourcing raw materials from FSC-managed forests</li><li>Using responsibly sourced cotton for textile products</li><li>Saving energy and reducing waste across operations</li><li>Exploring partnerships with Forestry England to support tree planting</li><li>Working to establish wild areas that encourage biodiversity</li></ul><p>We understand that the wellbeing of pets and wildlife is intrinsically linked to the health of our planet.</p>",
             "link_label": "",
@@ -351,7 +351,7 @@
         "title": "<strong>Committed to SDG 15: Life on Land</strong>",
         "heading_size": "h1",
         "heading_align": "center",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
@@ -400,7 +400,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
