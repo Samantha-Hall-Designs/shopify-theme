@@ -1,0 +1,499 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_8YBXY9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ajm4A3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>hi</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "heading_ffWkGp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Crafting with conscience since 2017",
+            "heading_size": "h2"
+          }
+        },
+        "text_t47yzq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Samantha Hall Designs, being responsible towards the environment isn't just a trend, it's been woven into the fabric of our business since our founding in 2017. As a female-owned micro business operating from a home office, we're committed to the triple bottom line of People, Planet and Profit guiding every decision from product design to delivery.</p>"
+          }
+        },
+        "button_WkhTyB": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ajm4A3",
+        "heading_ffWkGp",
+        "text_t47yzq",
+        "button_WkhTyB"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_i93773": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GdG7Kn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Shop with purpose</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_NrHrb8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When you choose Samantha Hall Designs, you're not just getting beautifully crafted, pet-inspired stationery; you're supporting a business where impact isn't an afterthought but fundamental to how we operate. </p><p></p><p><em>\"We're proud to demonstrate that beautiful, meaningful pet-inspired stationery can be created while respecting and protecting our environment.\"</em> - Samantha Hall, Founder</p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "button_QRMt3m": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GdG7Kn",
+        "text_NrHrb8",
+        "button_QRMt3m"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_3592.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_yqD7wW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_E4xFRy": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "button_XJfDBz": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_E4xFRy",
+        "button_XJfDBz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_dH3iFP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NcEFcJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Our reduced plastic guarantee</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_rmfR6a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We've established a strict reduced-plastic policy throughout our entire operation:</p><ul><li>Custom, durable card packaging made from FSC-certified materials</li><li>Plastic-free shipping with paper tape, cardboard void fill, and compostable mailers</li><li>Natural alternatives for traditionally plastic components</li><li>Zero single-use plastics in the office</li></ul><p>Our products are designed with the planet in mind while delighting our customers, proving that beautiful design and environmental responsibility can go hand-in-hand.</p><p>We are currently exploring plastic-free options for our stickers, so we can be officially plastic-free. </p>"
+          }
+        },
+        "button_pEYmxe": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NcEFcJ",
+        "text_rmfR6a",
+        "button_pEYmxe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_Frg39B": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TrHhCA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Responsibly sourced materials</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_xiYpnA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our sustainable journey begins with carefully selected partners who share our environmental values:</p><ul><li><strong>FSC-certified paper</strong>: All our notebooks and cards use paper from responsibly managed forests</li><li><strong>Environmentally-responsible dyes</strong>: Our fabric products feature water-based dyes that minimise environmental impact</li><li><strong>Local partnerships</strong>: We work with a Brighton seamstress for our scrunchies and cushions, supporting our    community while reducing transportation emissions</li><li><strong>European suppliers</strong>: Our materials come from sources meeting strict environmental standards</li></ul><p>We believe transparency matters. Our primary manufacturer's carbon reporting demonstrates their commitment to continuous improvement in reducing environmental impact.</p>"
+          }
+        },
+        "button_xnhLnj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click to view carbon report",
+            "button_link": "https://www.windlesgroup.co.uk/carbon-reports",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_nV4YLL": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TrHhCA",
+        "text_xiYpnA",
+        "button_xnhLnj",
+        "button_nV4YLL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_BmtDKw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DWw6qh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Helping animal charities raise funds</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_jmfUUB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beyond environmental sustainability, we believe in social responsibility. We've established a special partnership with <a href=\"https://www.serbias-forgotten-paws.com/\"><span style=\"text-decoration:underline\">Serbia's Forgotten Paws</span></a>, where:</p><ul><li>We donate surplus and sale products to support rescue dogs</li><li>We've created custom Christmas cards specifically for the charity to sell</li><li>This initiative holds special meaning for us as it's where our own rescue dog, Moko, found his forever home</li></ul><p>Through these contributions, we help generate vital funding for animal rescue operations while giving our products a meaningful second life.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_zQiGVy": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DWw6qh",
+        "text_jmfUUB",
+        "button_zQiGVy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/sfp_visual_square_copy.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_FPN8zY": {
+      "type": "rich-text",
+      "blocks": {
+        "text_K7PKCG": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_Y7pN9y": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_K7PKCG",
+        "button_Y7pN9y"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_dpwVWF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hnUNRg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SDG_15.jpg",
+            "title": "",
+            "text": "<p>Our business practices align with the UN Sustainable Development Goal 15, focusing on protecting life on land:</p><ul><li>Sourcing raw materials from FSC-managed forests</li><li>Using responsibly sourced cotton for textile products</li><li>Saving energy and reducing waste across operations</li><li>Exploring partnerships with Forestry England to support tree planting</li><li>Working to establish wild areas that encourage biodiversity</li></ul><p>We understand that the wellbeing of pets and wildlife is intrinsically linked to the health of our planet.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hnUNRg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Committed to SDG 15: Life on Land</strong>",
+        "heading_size": "h1",
+        "heading_align": "center",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Find out more here",
+        "button_link": "https://sdgs.un.org/goals/goal15",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_E6JUJw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LdPfGk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Circular economy in action</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_9QxWJL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're working to close the loop on waste through innovative practices:</p><ul><li>Reusing shipping materials from our suppliers for customer orders</li><li>Donating unsold products to charities for resale</li><li>Ensuring all products can be recycled or repurposed</li><li>Transforming damaged goods into new products</li><li>Providing clear disposal instructions for all packaging</li></ul><p>These circular practices help minimise our environmental footprint while maximising the value of resources.</p>"
+          }
+        },
+        "button_D9tprV": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LdPfGk",
+        "text_9QxWJL",
+        "button_D9tprV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_QVGGg6": {
+      "type": "multirow",
+      "blocks": {
+        "row_JQPghg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/man-signing-for-shipping-box.jpg",
+            "caption": "",
+            "heading": "<strong>Reducing our carbon footprint</strong>",
+            "text": "<p>We're taking concrete steps to minimise our climate impact:</p><ul><li>Transitioning to an electric van for event transportation</li><li>Consolidating shipments to reduce delivery journeys</li><li>Using renewable energy for our electricity needs</li><li>Implementing a 'switch-off' policy for all equipment</li><li>Exploring carbon offset programs for unavoidable emissions</li><li>Enrolling in Carbon Literacy training to deepen our understanding</li></ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_TXmhYK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_20200510_132959.jpg",
+            "caption": "",
+            "heading": "<strong>Our sustainable roadmap</strong>",
+            "text": "<p>Our journey doesn't stop here. We're committed to continuous improvement through:</p><ul><li>Setting measurable carbon reduction targets</li><li>Expanding circular economy initiatives</li><li>Researching new sustainable materials</li><li>Developing end-of-life programs for our products</li><li>Creating educational content about product care and longevity</li><li>Strengthening our relationship with animal welfare organisations</li></ul><p>Join us as we work towards a world where humans, animals, and nature thrive together.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_JQPghg",
+        "row_TXmhYK"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_aizcxg": {
+      "type": "rich-text",
+      "blocks": {
+        "button_QyKBE9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Want to chat more about impact? Drop us a line!",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_QyKBE9"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_8YBXY9",
+    "image_with_text_i93773",
+    "rich_text_yqD7wW",
+    "rich_text_dH3iFP",
+    "rich_text_Frg39B",
+    "image_with_text_BmtDKw",
+    "rich_text_FPN8zY",
+    "multicolumn_dpwVWF",
+    "rich_text_E6JUJw",
+    "multirow_QVGGg6",
+    "rich_text_aizcxg"
+  ]
+}
