@@ -11,47 +11,97 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "heading_itfzk8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get in touch to place wholesale orders",
+            "heading_size": "h0"
+          }
+        },
+        "text_AMWKQr": {
+          "type": "text",
+          "settings": {
+            "text": "I have returned to work part-time, so the shop is currently closed for retail customers.  I am only accepting wholesale orders at this time. Shop will fully open again soon - watch this space!",
+            "text_style": "body"
+          }
+        },
+        "buttons_kVbMP8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Wholesale Enquiries",
+            "button_link_1": "shopify://pages/wholesale",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "https://samanthahall.design/pages/stocklists-events",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_itfzk8",
+        "text_AMWKQr",
+        "buttons_kVbMP8"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Untitled_7.png",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/20250805_Sam_02_049.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "small",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "image_behavior": "none",
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
-    "featured_collection_K9Rt7W": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "image_with_text_HhUgcK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_zp7GbQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop my Notebook Seconds",
+            "heading_size": "h1"
+          }
+        },
+        "text_xqDtnf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You will find dogs, cats and nature themed notebooks in the sale! Including: Border collie, Vizsla, Cockapoo, Horse, Forest animals, Labradors, cats and many more.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_chqwPR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Here",
+            "button_link": "shopify://collections/notebook-seconds-sale",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zp7GbQ",
+        "text_xqDtnf",
+        "button_chqwPR"
+      ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "summer-forest",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "arch",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "image": "shopify://shop_images/Untitled_33.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collection_list_YMGK8k": {
@@ -60,19 +110,19 @@
         "featured_collection_3K3dTx": {
           "type": "featured_collection",
           "settings": {
-            "collection": "washi-tape"
+            "collection": "cockapoo"
           }
         },
         "featured_collection_TUknhD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rulers"
+            "collection": "golden-retriever"
           }
         },
         "featured_collection_jjMPaQ": {
           "type": "featured_collection",
           "settings": {
-            "collection": "notebooks"
+            "collection": "tote-bags-1"
           }
         }
       },
@@ -82,8 +132,8 @@
         "featured_collection_jjMPaQ"
       ],
       "settings": {
-        "title": "Stationery Essentials - tick!",
-        "heading_size": "h1",
+        "title": "<strong>Valentines Gifts to steal her heart!</strong>",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "scheme-1",
@@ -142,7 +192,7 @@
         "slide_HNeRWw": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/IMG_3929-Edit.jpg",
+            "image": "shopify://shop_images/20250805_Sam_01_022.jpg",
             "heading": "Hey there!",
             "heading_size": "h1",
             "subheading": "I am Sam, a one woman band who loves to design dog and wildlife inspired stationery & gifts.",
@@ -160,7 +210,7 @@
         "slide_QRGA4H": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/IMG_3881-Edit.jpg",
+            "image": "shopify://shop_images/20250805_Sam_01_024.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "I love creating emotional connections through eco friendly, reduced-plastic products that capture the sensory experience of the outdoors.",
@@ -189,6 +239,64 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "multicolumn_g9nte4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9JwMa7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3952_copy.jpg",
+            "title": "",
+            "text": "<p>\"This sticker has beautiful artwork! The Red Labrador is dalrling! Sticker is well made and fit perfectly for my project. I will be back to this store again! Thank you!\" </p><p><strong>- Susan</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/runner-duck-sticker-1"
+          }
+        },
+        "column_MFBGJm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_33863copy.jpg",
+            "title": "",
+            "text": "<p>\"This is the perfect gift for a Labrador owner. Delivery was very quick would highly recommend.\"</p><p><strong>- Debra</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/black-labrador-wooden-ruler"
+          }
+        },
+        "column_k9Xc3N": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3918.jpg",
+            "title": "",
+            "text": "<p>\"Beautiful purse bought for new puppy owner, thought it could also make a nice treat pouch! Many thanks.\"</p><p><strong>- Sarah</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/black-labrador-coin-purse"
+          }
+        }
+      },
+      "block_order": [
+        "column_9JwMa7",
+        "column_MFBGJm",
+        "column_k9Xc3N"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Reviews",
+        "heading_size": "h1",
+        "heading_align": "left",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_mz3xkE": {
@@ -223,7 +331,7 @@
         "button_67gxRd"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_3427_3_2e884220-b2a4-424a-b4ff-7d45349c3194.jpg",
+        "image": "shopify://shop_images/20250805_Sam_01_030.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -256,7 +364,7 @@
         "featured_collection_Jd4QBD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "vizsla"
+            "collection": "border-collie"
           }
         }
       },
@@ -344,7 +452,7 @@
         "row_7Xmx3Q": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/IMG_1362.jpg",
+            "image": "shopify://shop_images/Media_2-C03A80FA-6338-4A60-8994-7591B01C53D5.jpg",
             "caption": "",
             "heading": "Wholesale",
             "text": "<p>Are you a shop and are looking to stock my products? Head over to my wholesale page to find out more information on how you can be a stockist!</p>",
@@ -375,10 +483,11 @@
   },
   "order": [
     "image_banner",
-    "featured_collection_K9Rt7W",
+    "image_with_text_HhUgcK",
     "collection_list_YMGK8k",
     "rich_text_jeNtax",
     "slideshow_PPHMAh",
+    "multicolumn_g9nte4",
     "image_with_text_mz3xkE",
     "collection_list_93yja8",
     "multicolumn_fyeTxX",

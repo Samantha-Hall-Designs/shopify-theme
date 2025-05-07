@@ -71,9 +71,40 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_GYAGJD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DBTReP": {
+          "type": "heading",
+          "settings": {
+            "heading": "I would love to hear from you and to find out more about your store!",
+            "heading_size": "h1"
+          }
+        },
+        "text_VmEh9C": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am proud to be stocked in shops across the UK and around the world. You will find my wildlife inspired products in stationery, animal charity, farm and gift shops.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DBTReP",
+        "text_VmEh9C"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_N9tMGU": {
@@ -89,7 +120,7 @@
         "text_TFNwaX": {
           "type": "text",
           "settings": {
-            "text": "<h2></h2><h1>I would love to hear from you and to find out more about your store!</h1><p> To find out more about price lists. products available and much more, please email me at</p>"
+            "text": "<p>To find out more about price lists, product availability and much more, please email me at:</p>"
           }
         },
         "button_GEXq3b": {
@@ -106,7 +137,7 @@
         "text_dwWAMw": {
           "type": "text",
           "settings": {
-            "text": "<p>Alternatively, you can view my entire catalogue on Faire here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p>"
+            "text": ""
           }
         },
         "button_faFrBm": {
@@ -131,10 +162,167 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_YRetYD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DeAM3e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gloagburn-farm-shop-logo-full-colour-rgb-1000px_300ppi_62cddd52-babe-4324-b3c6-13622b2d5299.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.gloagburn.co.uk/?srsltid=AfmBOoo3SK2f8CqtbashLOuzwhyzLPyfS8TAfR9A_8XYspc1_8ncFbnP"
+          }
+        },
+        "column_qWYmdd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/mbo-neon-sign_150x_2x_23278e10-b401-43d9-a073-bfc71c8109e5.avif",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ym8K4h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-10-22_115739_1.avif",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DeAM3e",
+        "column_qWYmdd",
+        "column_ym8K4h"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "heading_align": "center",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_yjHQCm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xDAHMd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/inspired_logo_RGB_version_1_1296x_64fbddb5-84dd-4cc7-8cb0-9587e518aed6.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MdbQRU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Post_Office_Logo_svg.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GhTmk7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/EfF8ydW-600x600.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xDAHMd",
+        "column_MdbQRU",
+        "column_GhTmk7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "heading_align": "center",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_GipitG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PNmL7t": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale Catalogue",
+            "heading_size": "h1"
+          }
+        },
+        "text_9rEXJ3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Take a look at my wholesale catalogue for the full range of products which are available for purchase. You will find inside my bestsellers, new products and curated collections.</p>"
+          }
+        },
+        "button_tArXph": {
+          "type": "button",
+          "settings": {
+            "button_label": "View the Catalogue",
+            "button_link": "https://cdn.shopify.com/s/files/1/0811/4513/5444/files/Sam-Hall-Wholesale-catalog_2025_v4_WEB.pdf?v=1751020059",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PNmL7t",
+        "text_9rEXJ3",
+        "button_tArXph"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "newsletter_f8K6PJ": {
@@ -166,75 +354,57 @@
         "email_form_XPncMQ"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
-    "multicolumn_YRetYD": {
-      "type": "multicolumn",
+    "rich_text_EYQFMK": {
+      "type": "rich-text",
       "blocks": {
-        "column_DeAM3e": {
-          "type": "column",
+        "text_rF6fra": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/inspired_logo_RGB_version_1_1296x_64fbddb5-84dd-4cc7-8cb0-9587e518aed6.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Alternatively, if you shop on Faire, you can view my entire catalogue here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p>"
           }
         },
-        "column_qWYmdd": {
-          "type": "column",
+        "button_yKpmUT": {
+          "type": "button",
           "settings": {
-            "image": "shopify://shop_images/logo-v2.svg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ym8K4h": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/EfF8ydW-600x600.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column_DeAM3e",
-        "column_qWYmdd",
-        "column_ym8K4h"
+        "text_rF6fra",
+        "button_yKpmUT"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "title": "I am proudly stocked in stores across the globe",
-        "heading_size": "h2",
-        "heading_align": "center",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
     "multicolumn_VkgM7R",
+    "rich_text_GYAGJD",
     "rich_text_N9tMGU",
+    "multicolumn_YRetYD",
+    "multicolumn_yjHQCm",
+    "rich_text_GipitG",
     "newsletter_f8K6PJ",
-    "multicolumn_YRetYD"
+    "rich_text_EYQFMK"
   ]
 }

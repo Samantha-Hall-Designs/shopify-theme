@@ -19,14 +19,14 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Free Delivery over £30",
+            "text": "Free 1st Class Delivery over £30",
             "link": ""
           }
         },
         "announcement_bmwVW9": {
           "type": "announcement",
           "settings": {
-            "text": "10% off your first order when you join my newsletter",
+            "text": "Click here to get 10% off your first order!",
             "link": "shopify://pages/newsletter"
           }
         }
@@ -39,18 +39,26 @@
     "announcement_bar_FgXK83": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_aQHBAF": {
+        "announcement_RwrM86": {
           "type": "announcement",
           "settings": {
-            "text": "I am away at Crufts on the 6th - 9th of March! Orders will be shipped out after the 10th of March",
+            "text": "I'm working part-time hours so the shop is only open for WHOLESALE orders",
+            "link": ""
+          }
+        },
+        "announcement_aQHBAF": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "I'm working part-time hours so the shop is only open for WHOLESALE orders",
             "link": ""
           }
         }
       },
       "block_order": [
+        "announcement_RwrM86",
         "announcement_aQHBAF"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "show_line_separator": true,

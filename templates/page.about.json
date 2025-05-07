@@ -94,7 +94,7 @@
         "button_QRMt3m"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_3981-Edit.jpg",
+        "image": "shopify://shop_images/20250805_Sam_03_057.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -183,7 +183,7 @@
         "button_MeqMtV"
       ],
       "settings": {
-        "image": "shopify://shop_images/me_painting_2_72dpi_abfad52d-e8e1-4baa-af98-2458b03de1b2.jpg",
+        "image": "shopify://shop_images/20250805_Sam_01_004.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -279,6 +279,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
+        "heading_align": "left",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
