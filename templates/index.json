@@ -25,6 +25,46 @@
         "show_text_below": false
       }
     },
+    "collection_list_YMGK8k": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3K3dTx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "washi-tape"
+          }
+        },
+        "featured_collection_TUknhD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "notebooks"
+          }
+        },
+        "featured_collection_jjMPaQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "backpacks"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3K3dTx",
+        "featured_collection_TUknhD",
+        "featured_collection_jjMPaQ"
+      ],
+      "settings": {
+        "title": "20% off Stationery Essentials - tick!",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_K9Rt7W": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -52,46 +92,6 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "collection_list_YMGK8k": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_3K3dTx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "washi-tape"
-          }
-        },
-        "featured_collection_TUknhD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "rulers"
-          }
-        },
-        "featured_collection_jjMPaQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "notebooks"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_3K3dTx",
-        "featured_collection_TUknhD",
-        "featured_collection_jjMPaQ"
-      ],
-      "settings": {
-        "title": "Stationery Essentials - tick!",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_jeNtax": {
@@ -375,8 +375,8 @@
   },
   "order": [
     "image_banner",
-    "featured_collection_K9Rt7W",
     "collection_list_YMGK8k",
+    "featured_collection_K9Rt7W",
     "rich_text_jeNtax",
     "slideshow_PPHMAh",
     "image_with_text_mz3xkE",
