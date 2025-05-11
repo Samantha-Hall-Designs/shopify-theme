@@ -53,8 +53,8 @@
         "featured_collection_jjMPaQ"
       ],
       "settings": {
-        "title": "20% off Stationery Essentials - tick!",
-        "heading_size": "h1",
+        "title": "<strong>20% off Stationery Essentials - tick!</strong> <em>Discount applied at checkout</em>",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "scheme-1",
