@@ -51,7 +51,7 @@
         "announcement_aQHBAF": {
           "type": "announcement",
           "settings": {
-            "text": "I am away at Crufts on the 6th - 9th of March! Orders will be shipped out after the 10th of March",
+            "text": "20% off all stationery! Discount is applied at checkout",
             "link": ""
           }
         }
@@ -59,7 +59,6 @@
       "block_order": [
         "announcement_aQHBAF"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "show_line_separator": true,
