@@ -11,11 +11,35 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "heading_R3GMfC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Love Stationery? Brand New Stickers are Here!",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_kVbMP8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Stickers",
+            "button_link_1": "shopify://collections/stickers",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_R3GMfC",
+        "buttons_kVbMP8"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Untitled_7.png",
+        "image": "shopify://shop_images/IMG_3938_copy.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
@@ -62,46 +86,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_qdfBLh": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_MdtXT6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "rulers"
-          }
-        },
-        "featured_collection_Lb7xQD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pencil-cases"
-          }
-        },
-        "featured_collection_EkQcgz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "greetings-cards"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_MdtXT6",
-        "featured_collection_Lb7xQD",
-        "featured_collection_EkQcgz"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -387,7 +371,6 @@
   "order": [
     "image_banner",
     "collection_list_YMGK8k",
-    "collection_list_qdfBLh",
     "rich_text_jeNtax",
     "slideshow_PPHMAh",
     "image_with_text_mz3xkE",
