@@ -186,6 +186,64 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "multicolumn_g9nte4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9JwMa7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3952_copy.jpg",
+            "title": "",
+            "text": "<p>\"This sticker has beautiful artwork! The Red Labrador is dalrling! Sticker is well made and fit perfectly for my project. I will be back to this store again! Thank you!\" </p><p>- Susan</p>",
+            "link_label": "",
+            "link": "shopify://products/runner-duck-sticker-1"
+          }
+        },
+        "column_MFBGJm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_33863copy.jpg",
+            "title": "",
+            "text": "<p>\"This is the perfect gift for a Labrador owner. Delivery was very quick would highly recommend.\"</p><p>- Debra</p>",
+            "link_label": "",
+            "link": "shopify://products/black-labrador-wooden-ruler"
+          }
+        },
+        "column_k9Xc3N": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3918.jpg",
+            "title": "",
+            "text": "<p>\"Beautiful purse bought for new puppy owner, thought it could also make a nice treat pouch! Many thanks.\"</p><p>- Sarah</p>",
+            "link_label": "",
+            "link": "shopify://products/black-labrador-coin-purse"
+          }
+        }
+      },
+      "block_order": [
+        "column_9JwMa7",
+        "column_MFBGJm",
+        "column_k9Xc3N"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Kind Words",
+        "heading_size": "h1",
+        "heading_align": "left",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_mz3xkE": {
       "type": "image-with-text",
       "blocks": {
@@ -373,6 +431,7 @@
     "collection_list_YMGK8k",
     "rich_text_jeNtax",
     "slideshow_PPHMAh",
+    "multicolumn_g9nte4",
     "image_with_text_mz3xkE",
     "collection_list_93yja8",
     "multicolumn_fyeTxX",
