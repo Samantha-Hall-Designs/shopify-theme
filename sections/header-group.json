@@ -51,7 +51,7 @@
         "announcement_aQHBAF": {
           "type": "announcement",
           "settings": {
-            "text": "20% off all stationery! Discount is applied at checkout",
+            "text": "I am now shipping to North America again!",
             "link": ""
           }
         }
@@ -59,7 +59,6 @@
       "block_order": [
         "announcement_aQHBAF"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "show_line_separator": true,
