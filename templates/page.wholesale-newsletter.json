@@ -76,6 +76,49 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_GipitG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PNmL7t": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale Catalogue",
+            "heading_size": "h1"
+          }
+        },
+        "text_9rEXJ3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Take a look at my wholesale catalogue for the full range of products which are available for wholesale. Please contact me for a price list.</p>"
+          }
+        },
+        "button_tArXph": {
+          "type": "button",
+          "settings": {
+            "button_label": "View the Catalogue",
+            "button_link": "https://cdn.shopify.com/s/files/1/0811/4513/5444/files/Samantha_Hall_Designs_Wholesale-catalog_2025_v3_WEB.pdf?v=1748345914",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PNmL7t",
+        "text_9rEXJ3",
+        "button_tArXph"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_N9tMGU": {
       "type": "rich-text",
       "blocks": {
@@ -243,6 +286,7 @@
   "order": [
     "main",
     "multicolumn_VkgM7R",
+    "rich_text_GipitG",
     "rich_text_N9tMGU",
     "newsletter_f8K6PJ",
     "multicolumn_YRetYD",
