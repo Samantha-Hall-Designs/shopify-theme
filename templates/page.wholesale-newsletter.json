@@ -89,7 +89,7 @@
         "text_VmEh9C": {
           "type": "text",
           "settings": {
-            "text": "<p>Samantha Hall Designs is st</p>"
+            "text": "<p>I am proud to be stocked in shops across the UK and around the world. You will find my gifts and stationery products in stationery gift shops and also garden centres.</p>"
           }
         }
       },
@@ -120,7 +120,7 @@
         "text_9rEXJ3": {
           "type": "text",
           "settings": {
-            "text": "<p>Take a look at my wholesale catalogue for the full range of products which are available for wholesale. Please contact me for a price list.</p>"
+            "text": "<p>Take a look at my wholesale catalogue for the full range of products which are available for purchase. You will find inside my bestsellers, new products and curated collections.</p>"
           }
         },
         "button_tArXph": {
@@ -163,7 +163,7 @@
         "text_TFNwaX": {
           "type": "text",
           "settings": {
-            "text": "<p>To find out more about price lists. products available and much more, please email me at</p>"
+            "text": "<p>To find out more about price lists. products available and much more, please email me at:</p>"
           }
         },
         "button_GEXq3b": {
@@ -180,7 +180,7 @@
         "text_dwWAMw": {
           "type": "text",
           "settings": {
-            "text": "<p>Alternatively, you can view my entire catalogue on Faire here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p>"
+            "text": "<p>Alternatively, if you shop on Faire, you can view my entire catalogue here:</p><p><a href=\"https://faire.com/direct/samanthahalldesigns\">Shop Faire here</a></p>"
           }
         },
         "button_faFrBm": {
@@ -240,7 +240,7 @@
         "email_form_XPncMQ"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
