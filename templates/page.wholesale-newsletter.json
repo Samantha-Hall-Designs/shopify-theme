@@ -76,6 +76,37 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_GYAGJD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DBTReP": {
+          "type": "heading",
+          "settings": {
+            "heading": "I would love to hear from you and to find out more about your store!",
+            "heading_size": "h1"
+          }
+        },
+        "text_VmEh9C": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Samantha Hall Designs is st</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DBTReP",
+        "text_VmEh9C"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_GipitG": {
       "type": "rich-text",
       "blocks": {
@@ -132,7 +163,7 @@
         "text_TFNwaX": {
           "type": "text",
           "settings": {
-            "text": "<h2></h2><h1>I would love to hear from you and to find out more about your store!</h1><p> To find out more about price lists. products available and much more, please email me at</p>"
+            "text": "<p>To find out more about price lists. products available and much more, please email me at</p>"
           }
         },
         "button_GEXq3b": {
@@ -209,7 +240,7 @@
         "email_form_XPncMQ"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -271,25 +302,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "custom_liquid_yGcWnf": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<script\n  type=\"module\"\n  src=\"https://unpkg.com/pdf-viewer-element@0.1.0-pre.4/pdf-viewer.js?module\"\n></script>\n\n<div style=\"width: 100%; height: 500px\">\n  <pdf-viewer-element\n    src=\"https://cdn.shopify.com/s/files/1/0811/4513/5444/files/Samantha_Hall_Designs_Wholesale-catalog_2025_v3_WEB.pdf?v=1748345914\"\n  ></pdf-viewer-element>\n</div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "multicolumn_VkgM7R",
+    "rich_text_GYAGJD",
     "rich_text_GipitG",
     "rich_text_N9tMGU",
     "newsletter_f8K6PJ",
-    "multicolumn_YRetYD",
-    "custom_liquid_yGcWnf"
+    "multicolumn_YRetYD"
   ]
 }
