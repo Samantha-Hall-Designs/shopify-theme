@@ -15,15 +15,15 @@
         "heading_R3GMfC": {
           "type": "heading",
           "settings": {
-            "heading": "Love Stationery? Stickers are Here!",
+            "heading": "Brand new Cockapoo collection pieces are here",
             "heading_size": "h1"
           }
         },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Stickers",
-            "button_link_1": "shopify://collections/stickers",
+            "button_label_1": "Shop Cockapoo",
+            "button_link_1": "shopify://collections/cockapoo",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -36,8 +36,8 @@
         "buttons_kVbMP8"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_5E9C1E807EB6-1.jpg",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/IMG_4369_copy.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -55,19 +55,19 @@
         "featured_collection_3K3dTx": {
           "type": "featured_collection",
           "settings": {
-            "collection": "washi-tape"
+            "collection": "gifts-for-outdoorsy-dads"
           }
         },
         "featured_collection_TUknhD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "notebooks"
+            "collection": "teacher-gifts-1"
           }
         },
         "featured_collection_jjMPaQ": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rulers"
+            "collection": "gifts-for-dog-lovers"
           }
         }
       },
