@@ -50,6 +50,7 @@
       "blocks": {
         "announcement_aQHBAF": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "I am currently away at DogFest, Tatton Park 🙌 All orders will be shipped Wednesday 25th June",
             "link": ""
