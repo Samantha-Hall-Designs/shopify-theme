@@ -15,15 +15,15 @@
         "heading_R3GMfC": {
           "type": "heading",
           "settings": {
-            "heading": "Brand new Cockapoo collection pieces are here",
+            "heading": "Getting Ready for Back to school?",
             "heading_size": "h1"
           }
         },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Cockapoo",
-            "button_link_1": "shopify://collections/cockapoo",
+            "button_label_1": "Shop New Pencil Cases",
+            "button_link_1": "shopify://collections/pencil-cases",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -36,7 +36,7 @@
         "buttons_kVbMP8"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_4369_copy.jpg",
+        "image": "shopify://shop_images/IMG_47812copy.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
