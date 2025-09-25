@@ -50,6 +50,7 @@
       "blocks": {
         "announcement_aQHBAF": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "I am currently away from the studio at Top Drawer, London. All orders will be shipped after the 17th of September",
             "link": ""
