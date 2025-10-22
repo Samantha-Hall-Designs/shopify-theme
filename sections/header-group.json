@@ -24,7 +24,7 @@
         "announcement_bmwVW9": {
           "type": "announcement",
           "settings": {
-            "text": "10% off your first order when you join my newsletter",
+            "text": "Click here to get 10% off your first order!",
             "link": "shopify://pages/newsletter"
           }
         }
