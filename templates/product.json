@@ -24,6 +24,12 @@
           "type": "title",
           "settings": {}
         },
+        "easyreviews_star_rating_cdykjg": {
+          "type": "shopify://apps/easyreviews/blocks/star_rating/1341251b-09d7-46f3-ba6a-e732a50e97a5",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -76,6 +82,7 @@
       "block_order": [
         "vendor",
         "title",
+        "easyreviews_star_rating_cdykjg",
         "price",
         "variant_picker",
         "expo_extra_product_options_expo_block_hdfxtP",
