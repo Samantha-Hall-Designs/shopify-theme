@@ -24,10 +24,15 @@
           "type": "title",
           "settings": {}
         },
-        "easyreviews_star_rating_cdykjg": {
-          "type": "shopify://apps/easyreviews/blocks/star_rating/1341251b-09d7-46f3-ba6a-e732a50e97a5",
+        "doran_product_reviews_rating_widget_JT36Bx": {
+          "type": "shopify://apps/doran-product-reviews/blocks/rating-widget/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
           "settings": {
-            "product": "{{product}}"
+            "is_hide_detail": false,
+            "is_display_questions": false,
+            "class_name": "",
+            "is_hide_if_no_reviews": true,
+            "is_use_shopify_font": true,
+            "shopify_font": "sans_serif_n4"
           }
         },
         "price": {
@@ -82,7 +87,7 @@
       "block_order": [
         "vendor",
         "title",
-        "easyreviews_star_rating_cdykjg",
+        "doran_product_reviews_rating_widget_JT36Bx",
         "price",
         "variant_picker",
         "expo_extra_product_options_expo_block_hdfxtP",
@@ -133,15 +138,19 @@
     "1761216628330fa0d9": {
       "type": "apps",
       "blocks": {
-        "easyreviews_product_review_8f49JJ": {
-          "type": "shopify://apps/easyreviews/blocks/product_review/1341251b-09d7-46f3-ba6a-e732a50e97a5",
+        "doran_product_reviews_product_widget_4h6HcK": {
+          "type": "shopify://apps/doran-product-reviews/blocks/product-widget/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
           "settings": {
-            "product": "{{product}}"
+            "topPadding": 36,
+            "bottomPadding": 36,
+            "is_hide_if_no_reviews": true,
+            "is_use_shopify_font": true,
+            "shopify_font": "sans_serif_n4"
           }
         }
       },
       "block_order": [
-        "easyreviews_product_review_8f49JJ"
+        "doran_product_reviews_product_widget_4h6HcK"
       ],
       "settings": {
         "include_margins": true
