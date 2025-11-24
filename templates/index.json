@@ -15,14 +15,14 @@
         "heading_R3GMfC": {
           "type": "heading",
           "settings": {
-            "heading": "Autumn has arrived",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Midnight Forest",
+            "button_label_1": "",
             "button_link_1": "shopify://collections/midnight-forest",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -36,8 +36,8 @@
         "buttons_kVbMP8"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_2641copy.jpg",
-        "image_overlay_opacity": 30,
+        "image": "shopify://shop_images/Etsy_banner_AW_25.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
