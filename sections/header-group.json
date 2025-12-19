@@ -50,9 +50,8 @@
       "blocks": {
         "announcement_aQHBAF": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "I am currently away from the studio. All orders will be shipped after the 17th of November",
+            "text": "I am currently away from the studio. All orders will be shipped after the 5th of January. Have a lovely Christmas!",
             "link": ""
           }
         }
