@@ -94,13 +94,13 @@
         "featured_collection_3K3dTx": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rulers"
+            "collection": "cockapoo"
           }
         },
         "featured_collection_TUknhD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "notebooks"
+            "collection": "cushions"
           }
         },
         "featured_collection_jjMPaQ": {
@@ -116,7 +116,7 @@
         "featured_collection_jjMPaQ"
       ],
       "settings": {
-        "title": "<strong>Stationery Essentials - tick!</strong>",
+        "title": "<strong>Valentines Gifts</strong>",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
