@@ -62,7 +62,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Pop Up Pencil Cases",
-            "button_link": "shopify://collections/pencil-cases",
+            "button_link": "shopify://collections/popup-pencil-cases",
             "button_style_secondary": false
           }
         }
