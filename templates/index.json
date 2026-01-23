@@ -12,10 +12,17 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "heading_itfzk8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pre Order my Pop Up Pencil Cases",
+            "heading_size": "h1"
+          }
+        },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
+            "button_label_1": "Shop Pop Up Pencil Cases",
             "button_link_1": "shopify://collections/pencil-cases",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -25,6 +32,7 @@
         }
       },
       "block_order": [
+        "heading_itfzk8",
         "buttons_kVbMP8"
       ],
       "settings": {
