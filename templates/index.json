@@ -55,22 +55,22 @@
         "heading_zp7GbQ": {
           "type": "heading",
           "settings": {
-            "heading": "Pre order my Pop Up Pencil Case",
+            "heading": "Brand New Tote Bags",
             "heading_size": "h1"
           }
         },
         "text_xqDtnf": {
           "type": "text",
           "settings": {
-            "text": "<p>I am so happy and excited that my new product, the pop up pencil case, is now available for pre order. Order today and have it shipped to you in February.</p><p>For trade enquires please email me to order at hello@samanthahall.design</p>",
+            "text": "<p>I am so happy and excited that my new tote bags are now here!</p><p>Available in Cat, Cockapoo, Black Labrador, Summer Forest and Horse.</p>",
             "text_style": "body"
           }
         },
         "button_chqwPR": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Pop Up Pencil Cases",
-            "button_link": "shopify://collections/popup-pencil-cases",
+            "button_label": "Shop Tote Bags",
+            "button_link": "shopify://collections/tote-bags-1",
             "button_style_secondary": false
           }
         }
@@ -81,7 +81,7 @@
         "button_chqwPR"
       ],
       "settings": {
-        "image": "shopify://shop_images/GOY_square_image_green_copy_fe0ba6ff-6993-4c0b-a159-ff5808c83df3.jpg",
+        "image": "shopify://shop_images/CockapooTote.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
