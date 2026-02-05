@@ -89,7 +89,7 @@
         "text_VmEh9C": {
           "type": "text",
           "settings": {
-            "text": "<p>I am proud to be stocked in shops across the UK and around the world. You will find my wildlife inspired products in stationery and gift shops and also garden centres.</p>"
+            "text": "<p>I am proud to be stocked in shops across the UK and around the world. You will find my wildlife inspired products in stationery, animal charity, gift and garden centres.</p>"
           }
         }
       },
@@ -168,49 +168,6 @@
         "padding_bottom": 16
       }
     },
-    "rich_text_GipitG": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_PNmL7t": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wholesale Catalogue",
-            "heading_size": "h1"
-          }
-        },
-        "text_9rEXJ3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Take a look at my wholesale catalogue for the full range of products which are available for purchase. You will find inside my bestsellers, new products and curated collections.</p>"
-          }
-        },
-        "button_tArXph": {
-          "type": "button",
-          "settings": {
-            "button_label": "View the Catalogue",
-            "button_link": "https://cdn.shopify.com/s/files/1/0811/4513/5444/files/Sam-Hall-Wholesale-catalog_2025_v4_WEB.pdf?v=1751020059",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_PNmL7t",
-        "text_9rEXJ3",
-        "button_tArXph"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_YRetYD": {
       "type": "multicolumn",
       "blocks": {
@@ -266,6 +223,106 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_yjHQCm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xDAHMd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/inspired_logo_RGB_version_1_1296x_64fbddb5-84dd-4cc7-8cb0-9587e518aed6.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MdbQRU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Post_Office_Logo_svg.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GhTmk7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/EfF8ydW-600x600.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xDAHMd",
+        "column_MdbQRU",
+        "column_GhTmk7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "heading_align": "center",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_GipitG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PNmL7t": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale Catalogue",
+            "heading_size": "h1"
+          }
+        },
+        "text_9rEXJ3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Take a look at my wholesale catalogue for the full range of products which are available for purchase. You will find inside my bestsellers, new products and curated collections.</p>"
+          }
+        },
+        "button_tArXph": {
+          "type": "button",
+          "settings": {
+            "button_label": "View the Catalogue",
+            "button_link": "https://cdn.shopify.com/s/files/1/0811/4513/5444/files/Sam-Hall-Wholesale-catalog_2025_v4_WEB.pdf?v=1751020059",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PNmL7t",
+        "text_9rEXJ3",
+        "button_tArXph"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "newsletter_f8K6PJ": {
@@ -336,63 +393,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "multicolumn_yjHQCm": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_xDAHMd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/inspired_logo_RGB_version_1_1296x_64fbddb5-84dd-4cc7-8cb0-9587e518aed6.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_MdbQRU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Post_Office_Logo_svg.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GhTmk7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/EfF8ydW-600x600.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_xDAHMd",
-        "column_MdbQRU",
-        "column_GhTmk7"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "heading_align": "center",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     }
   },
