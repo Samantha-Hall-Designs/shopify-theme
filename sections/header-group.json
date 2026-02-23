@@ -48,6 +48,13 @@
     "announcement_bar_FgXK83": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_RwrM86": {
+          "type": "announcement",
+          "settings": {
+            "text": "Shop 15% off in my shop this week before my shop closes on Friday 27th of February - no code needed",
+            "link": ""
+          }
+        },
         "announcement_aQHBAF": {
           "type": "announcement",
           "disabled": true,
@@ -58,6 +65,7 @@
         }
       },
       "block_order": [
+        "announcement_RwrM86",
         "announcement_aQHBAF"
       ],
       "settings": {
