@@ -15,14 +15,21 @@
         "heading_itfzk8": {
           "type": "heading",
           "settings": {
-            "heading": "Order my Pop Up Pencil Cases",
-            "heading_size": "h1"
+            "heading": "<strong>Shop 15% off this week! </strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_AMWKQr": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>After this week, I will be going on maternity leave and I will be closing my shop for 2 months. This is your last week to shop before I re open in May! Enjoy 15% off everything - no code needed. </strong>",
+            "text_style": "body"
           }
         },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Pop Up Pencil Cases",
+            "button_label_1": "",
             "button_link_1": "shopify://collections/pencil-cases",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -33,11 +40,12 @@
       },
       "block_order": [
         "heading_itfzk8",
+        "text_AMWKQr",
         "buttons_kVbMP8"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled_32.jpg",
-        "image_overlay_opacity": 10,
+        "image": "shopify://shop_images/20250805_Sam_02_049.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
