@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Click here to see where I am stocked",
-            "button_link_1": "shopify://collections/pencil-cases",
+            "button_link_1": "https://samanthahall.design/pages/stocklists-events",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "https://samanthahall.design/pages/stocklists-events",
