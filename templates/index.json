@@ -15,25 +15,25 @@
         "heading_itfzk8": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Shop 15% off this week! </strong>",
+            "heading": "<strong>The Shop is now closed until May</strong>",
             "heading_size": "h0"
           }
         },
         "text_AMWKQr": {
           "type": "text",
           "settings": {
-            "text": "<strong>After this week, I will be going on maternity leave and I will be closing my shop for 2 months. This is your last week to shop before I re open in May! Enjoy 15% off everything - no code needed. </strong>",
+            "text": "I am now on maternity leave until May which is when the shop will re open. If you would like to shop my work while I am away, I am in shops in the UK and around the world. You can find out more information here:",
             "text_style": "body"
           }
         },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
+            "button_label_1": "Click here to see where I am stocked",
             "button_link_1": "shopify://collections/pencil-cases",
             "button_style_secondary_1": true,
             "button_label_2": "",
-            "button_link_2": "",
+            "button_link_2": "https://samanthahall.design/pages/stocklists-events",
             "button_style_secondary_2": false
           }
         }
@@ -50,7 +50,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
