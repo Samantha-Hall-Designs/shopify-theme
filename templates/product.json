@@ -66,6 +66,12 @@
             "custom_liquid": "{% if product.tags contains 'Notebook' %}\n<p><strong>Special offer:</strong><br>\nBuy any 2 <a href=\"/collections/notebooks\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Notebooks</a> for £20</p>\n{% endif %}"
           }
         },
+        "custom_liquid_AFqDzG": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.tags contains 'sticker' %}\n<p><strong>Special offer:</strong><br>\nBuy any 2 <a href=\"/collections/stickers\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Stickers</a> for £3</p>\n{% endif %}"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -94,6 +100,7 @@
         "quantity_selector",
         "custom_liquid_4PcwLh",
         "custom_liquid_RP9r6E",
+        "custom_liquid_AFqDzG",
         "buy_buttons",
         "description",
         "share"
