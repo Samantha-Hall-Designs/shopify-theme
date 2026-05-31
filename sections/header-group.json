@@ -51,7 +51,7 @@
         "announcement_RwrM86": {
           "type": "announcement",
           "settings": {
-            "text": "I am currently on maternity leave and the  shop is closed until May",
+            "text": "I'm working part-time hours so the shop is only open for WHOLESALE orders",
             "link": ""
           }
         },
@@ -59,7 +59,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "I am currently away from the studio. All orders will be shipped after the 5th of January. Have a lovely Christmas!",
+            "text": "I'm working part-time hours so the shop is only open for WHOLESALE orders",
             "link": ""
           }
         }
