@@ -57,53 +57,6 @@
         "show_text_below": false
       }
     },
-    "image_with_text_HhUgcK": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_zp7GbQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shop my Notebook Seconds",
-            "heading_size": "h1"
-          }
-        },
-        "text_xqDtnf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You will find dogs, cats and nature themed notebooks in the sale! Including: Border collie, Vizsla, Cockapoo, Horse, Forest animals, Labradors, cats and many more.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_chqwPR": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Here",
-            "button_link": "shopify://collections/notebook-seconds-sale",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_zp7GbQ",
-        "text_xqDtnf",
-        "button_chqwPR"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Untitled_33.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-2",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collection_list_YMGK8k": {
       "type": "collection-list",
       "blocks": {
@@ -133,6 +86,46 @@
       ],
       "settings": {
         "title": "<strong>Stationery must haves for animal lovers</strong>",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_qbEdxB": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_kH8DiX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "popup-pencil-cases"
+          }
+        },
+        "featured_collection_nCyAHt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stickers"
+          }
+        },
+        "featured_collection_LY33M7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pencil-cases"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_kH8DiX",
+        "featured_collection_nCyAHt",
+        "featured_collection_LY33M7"
+      ],
+      "settings": {
+        "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -483,8 +476,8 @@
   },
   "order": [
     "image_banner",
-    "image_with_text_HhUgcK",
     "collection_list_YMGK8k",
+    "collection_list_qbEdxB",
     "rich_text_jeNtax",
     "slideshow_PPHMAh",
     "multicolumn_g9nte4",
