@@ -116,13 +116,13 @@
         "featured_collection_TUknhD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "golden-retriever"
+            "collection": "notebooks"
           }
         },
         "featured_collection_jjMPaQ": {
           "type": "featured_collection",
           "settings": {
-            "collection": "tote-bags-1"
+            "collection": "rulers"
           }
         }
       },
@@ -132,7 +132,7 @@
         "featured_collection_jjMPaQ"
       ],
       "settings": {
-        "title": "<strong>Valentines Gifts to steal her heart!</strong>",
+        "title": "<strong>Stationery must haves for animal lovers</strong>",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
