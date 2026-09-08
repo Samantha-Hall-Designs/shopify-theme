@@ -15,22 +15,22 @@
         "heading_itfzk8": {
           "type": "heading",
           "settings": {
-            "heading": "Shop back to school essentials",
+            "heading": "Autumn is here",
             "heading_size": "h0"
           }
         },
         "text_AMWKQr": {
           "type": "text",
           "settings": {
-            "text": "Shop Personalised notebooks and much more",
+            "text": "Toadstools, autumnal leaves and and your faourite woodland animals",
             "text_style": "body"
           }
         },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Notebooks",
-            "button_link_1": "shopify://collections/notebooks",
+            "button_label_1": "Shop Midnight Forest",
+            "button_link_1": "shopify://collections/midnight-forest",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "https://samanthahall.design/pages/stocklists-events",
@@ -44,7 +44,7 @@
         "buttons_kVbMP8"
       ],
       "settings": {
-        "image": "shopify://shop_images/20250805_Sam_02_042.jpg",
+        "image": "shopify://shop_images/SleepyFoxSticker.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
