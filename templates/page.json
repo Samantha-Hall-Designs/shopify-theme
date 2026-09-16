@@ -38,8 +38,8 @@
         "button_zJDmqn": {
           "type": "button",
           "settings": {
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Wholesale Portal Log In",
+            "button_link": "https://wholesale.samanthahall.design/signIn",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -61,59 +61,10 @@
         "padding_top": 0,
         "padding_bottom": 52
       }
-    },
-    "image_banner_CBg8gj": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_mU74qA": {
-          "type": "heading",
-          "settings": {
-            "heading": "Log In or Request Access",
-            "heading_size": "h1"
-          }
-        },
-        "text_7dtWmK": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_ARkW7e": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Trade Log In",
-            "button_link_1": "https://wholesale.samanthahall.design",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_mU74qA",
-        "text_7dtWmK",
-        "buttons_ARkW7e"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "main",
-    "rich_text_iLPcNU",
-    "image_banner_CBg8gj"
+    "rich_text_iLPcNU"
   ]
 }
