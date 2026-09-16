@@ -107,44 +107,35 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_N9tMGU": {
+    "rich_text_xXjWaH": {
       "type": "rich-text",
       "blocks": {
-        "heading_RtiLWf": {
+        "heading_EKxeGg": {
           "type": "heading",
+          "settings": {
+            "heading": "Are you a store and ready to order?",
+            "heading_size": "h1"
+          }
+        },
+        "heading_eXCtic": {
+          "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1"
           }
         },
-        "text_TFNwaX": {
+        "text_UUzPem": {
           "type": "text",
           "settings": {
-            "text": "<p>To find out more about price lists, product availability and much more, please email me at:</p>"
+            "text": "<p>I am so happy you want to partner with my brand. If you are new here, click the button below to request access to my online wholesale portal. Or if you are an existing stockist, click below to log in.</p>"
           }
         },
-        "button_GEXq3b": {
+        "button_QMX3RX": {
           "type": "button",
           "settings": {
-            "button_label": "hello@samanthahall.design",
-            "button_link": "mailto:hello@samanthahall.design",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "text_dwWAMw": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_faFrBm": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Wholesale Portal",
+            "button_link": "https://wholesale.samanthahall.design/signIn",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -153,19 +144,19 @@
         }
       },
       "block_order": [
-        "heading_RtiLWf",
-        "text_TFNwaX",
-        "button_GEXq3b",
-        "text_dwWAMw",
-        "button_faFrBm"
+        "heading_EKxeGg",
+        "heading_eXCtic",
+        "text_UUzPem",
+        "button_QMX3RX"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-5",
         "full_width": true,
-        "padding_top": 16,
-        "padding_bottom": 16
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_YRetYD": {
@@ -360,6 +351,67 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_N9tMGU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RtiLWf": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_TFNwaX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To find out more about price lists, product availability and much more, please email me at:</p>"
+          }
+        },
+        "button_GEXq3b": {
+          "type": "button",
+          "settings": {
+            "button_label": "hello@samanthahall.design",
+            "button_link": "mailto:hello@samanthahall.design",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_dwWAMw": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_faFrBm": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RtiLWf",
+        "text_TFNwaX",
+        "button_GEXq3b",
+        "text_dwWAMw",
+        "button_faFrBm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "rich_text_EYQFMK": {
       "type": "rich-text",
       "blocks": {
@@ -400,11 +452,12 @@
     "main",
     "multicolumn_VkgM7R",
     "rich_text_GYAGJD",
-    "rich_text_N9tMGU",
+    "rich_text_xXjWaH",
     "multicolumn_YRetYD",
     "multicolumn_yjHQCm",
     "rich_text_GipitG",
     "newsletter_f8K6PJ",
+    "rich_text_N9tMGU",
     "rich_text_EYQFMK"
   ]
 }
