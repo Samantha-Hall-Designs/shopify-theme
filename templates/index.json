@@ -69,13 +69,13 @@
         "featured_collection_TUknhD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "notebooks"
+            "collection": "stickers"
           }
         },
         "featured_collection_jjMPaQ": {
           "type": "featured_collection",
           "settings": {
-            "collection": "wooden-pins"
+            "collection": "washi-tape"
           }
         }
       },
@@ -85,7 +85,7 @@
         "featured_collection_jjMPaQ"
       ],
       "settings": {
-        "title": "<strong>Stationery & gift must haves for animal lovers</strong>",
+        "title": "<strong>Spooky Season has Arrived</strong>",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -109,7 +109,7 @@
         "featured_collection_nCyAHt": {
           "type": "featured_collection",
           "settings": {
-            "collection": "stickers"
+            "collection": "greetings-cards"
           }
         },
         "featured_collection_LY33M7": {
@@ -125,7 +125,7 @@
         "featured_collection_LY33M7"
       ],
       "settings": {
-        "title": "",
+        "title": "<strong>Stationery & gift must haves for animal lovers</strong>",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
