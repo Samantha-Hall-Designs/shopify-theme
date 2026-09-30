@@ -22,7 +22,7 @@
         "text_AMWKQr": {
           "type": "text",
           "settings": {
-            "text": "<strong>Cheer on your favourite small business by shopping my gifts and stationery</strong>",
+            "text": "<strong>Cheer on your favourite small business by shopping my gifts & stationery</strong>",
             "text_style": "body"
           }
         },
@@ -103,19 +103,19 @@
         "featured_collection_kH8DiX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "popup-pencil-cases"
+            "collection": "pencils"
           }
         },
         "featured_collection_nCyAHt": {
           "type": "featured_collection",
           "settings": {
-            "collection": "greetings-cards"
+            "collection": "sticky-notes"
           }
         },
         "featured_collection_LY33M7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pencil-cases"
+            "collection": "tote-bags-1"
           }
         }
       },
