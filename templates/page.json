@@ -32,13 +32,13 @@
         "text_Azd3Kd": {
           "type": "text",
           "settings": {
-            "text": "<p>I am so happy you want to partner with my brand.  If you are new here, click the button below to request access to my online wholesale portal.</p><p>Or if you are an existing stockist, click below to log in.</p>"
+            "text": "<p>I am so happy you want to partner with my brand. &nbsp;If you are new here, click the button below to request access to my online wholesale portal.</p><p>Click below to log in or to request access.</p>"
           }
         },
         "button_zJDmqn": {
           "type": "button",
           "settings": {
-            "button_label": "Wholesale Portal Log In",
+            "button_label": "Wholesale Portal Log In or Request Access",
             "button_link": "https://wholesale.samanthahall.design/signIn",
             "button_style_secondary": false,
             "button_label_2": "",
