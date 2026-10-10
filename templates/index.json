@@ -103,7 +103,7 @@
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "New Arrivals",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -155,7 +155,7 @@
         "featured_collection_LY33M7"
       ],
       "settings": {
-        "title": "<strong>Gifts for Stationery Lovers</strong>",
+        "title": "Gifts for Stationery Lovers",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
