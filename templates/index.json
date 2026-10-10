@@ -103,7 +103,7 @@
         "featured_collection_kH8DiX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pencils"
+            "collection": "3-for-2-on-stocking-fillers"
           }
         },
         "featured_collection_nCyAHt": {
@@ -115,7 +115,7 @@
         "featured_collection_LY33M7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "tote-bags-1"
+            "collection": "washi-tape"
           }
         }
       },
@@ -125,7 +125,7 @@
         "featured_collection_LY33M7"
       ],
       "settings": {
-        "title": "<strong>Stationery & gift must haves for animal lovers</strong>",
+        "title": "<strong>Gifts for Stationery Lovers</strong>",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -134,6 +134,46 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_qQndJH": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Fhhpmj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "popup-pencil-cases"
+          }
+        },
+        "featured_collection_zhPXpM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pencils"
+          }
+        },
+        "featured_collection_kbc3fx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "personalised"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Fhhpmj",
+        "featured_collection_zhPXpM",
+        "featured_collection_kbc3fx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -526,6 +566,7 @@
     "image_banner",
     "collection_list_YMGK8k",
     "collection_list_qbEdxB",
+    "collection_list_qQndJH",
     "image_with_text_Tg3GWg",
     "rich_text_jeNtax",
     "slideshow_PPHMAh",
