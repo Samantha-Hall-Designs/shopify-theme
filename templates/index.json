@@ -258,13 +258,6 @@
     "rich_text_jeNtax": {
       "type": "rich-text",
       "blocks": {
-        "heading_Fa3VEc": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heartfelt stationery & gifts inspired by pets and the natural world.",
-            "heading_size": "h1"
-          }
-        },
         "text_ErEHjx": {
           "type": "text",
           "settings": {
@@ -284,7 +277,6 @@
         }
       },
       "block_order": [
-        "heading_Fa3VEc",
         "text_ErEHjx",
         "button_A9APdk"
       ],
@@ -306,7 +298,7 @@
             "image": "shopify://shop_images/20250805_Sam_04_105.jpg",
             "heading": "Hey there!",
             "heading_size": "h1",
-            "subheading": "I am Sam, a one woman band who loves to design dog and wildlife inspired stationery & gifts.",
+            "subheading": "I am Sam, a one woman band who creates Heartfelt stationery & gifts inspired by pets and the natural world.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -335,11 +327,30 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_eeRMXa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/20250805_Sam_01_031.jpg",
+            "heading": "Made by real people",
+            "heading_size": "h1",
+            "subheading": "Designed in Worthing and manufactured locally and sustainably where possible.&nbsp;",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_HNeRWw",
-        "slide_QRGA4H"
+        "slide_QRGA4H",
+        "slide_eeRMXa"
       ],
       "settings": {
         "layout": "full_bleed",
