@@ -306,7 +306,7 @@
             "show_text_box": true,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-5",
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         },
@@ -334,7 +334,7 @@
             "image": "shopify://shop_images/20250805_Sam_01_031.jpg",
             "heading": "Made by real people",
             "heading_size": "h1",
-            "subheading": "Designed in Worthing and manufactured locally and sustainably where possible.&nbsp;",
+            "subheading": "Designed in Worthing, manufactured locally and sustainably made where possible.&nbsp;",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
