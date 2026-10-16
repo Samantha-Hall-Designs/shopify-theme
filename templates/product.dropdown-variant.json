@@ -63,7 +63,7 @@
         "custom_liquid_RP9r6E": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.tags contains 'Notebook' %}\n<p><strong>Special offer:</strong><br>\nBuy any 2 <a href=\"/collections/notebooks\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Notebooks</a> for £20</p>\n{% endif %}"
+            "custom_liquid": "{% if product.tags contains 'Notebook' %}\n<p><strong>Special offer:</strong><br>\nBuy any 2 <a href=\"/collections/notebooks\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Notebooks</a> for £25</p>\n{% endif %}"
           }
         },
         "buy_buttons": {
