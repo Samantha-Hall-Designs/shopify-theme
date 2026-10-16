@@ -114,7 +114,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -133,7 +133,7 @@
         "featured_collection_kH8DiX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "3-for-2-on-stocking-fillers"
+            "collection": "rulers"
           }
         },
         "featured_collection_nCyAHt": {
@@ -159,7 +159,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -199,11 +199,58 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_xqiraV": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_YBXWML": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "3-for-2-on-stocking-fillers"
+          }
+        },
+        "featured_collection_gBhwcE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "4-greeting-cards-for-10"
+          }
+        },
+        "featured_collection_TbEtrb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "2-notebooks-for-20"
+          }
+        },
+        "featured_collection_JBk8HR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stickers"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_YBXWML",
+        "featured_collection_gBhwcE",
+        "featured_collection_TbEtrb",
+        "featured_collection_JBk8HR"
+      ],
+      "settings": {
+        "title": "Bundles and Offers",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -247,8 +294,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -454,7 +501,7 @@
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
@@ -549,8 +596,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
+        "section_color_scheme": "scheme-4",
+        "row_color_scheme": "scheme-4",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -563,6 +610,7 @@
     "featured_collection_KMx84w",
     "collection_list_qbEdxB",
     "collection_list_qQndJH",
+    "collection_list_xqiraV",
     "image_with_text_Tg3GWg",
     "rich_text_jeNtax",
     "slideshow_PPHMAh",
