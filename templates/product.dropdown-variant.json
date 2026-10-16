@@ -57,7 +57,7 @@
         "custom_liquid_4PcwLh": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.tags contains 'Greeting Card' %}\n<p><strong>Special offer:</strong><br>\nBuy any 4 <a href=\"/collections/greetings-cards\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Greeting Cards</a> for £10</p>\n{% endif %}"
+            "custom_liquid": "{% if product.tags contains 'Greeting Card' %}\n<p><strong>Special offer:</strong><br>\nBuy any 4 <a href=\"/collections/greetings-cards\" style=\"color: rgba(var(--color-link),var(--alpha-link))\">Greeting Cards</a> for the price of 3</p>\n{% endif %}"
           }
         },
         "custom_liquid_RP9r6E": {
