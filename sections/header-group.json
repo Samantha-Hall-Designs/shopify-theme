@@ -70,7 +70,7 @@
         "announcement_RwrM86": {
           "type": "announcement",
           "settings": {
-            "text": "I am away until the 13th of July - Orders will be sent when I am back!",
+            "text": "I am away until the 26th of October - Orders will be sent when I am back!",
             "link": ""
           }
         },
@@ -87,7 +87,6 @@
         "announcement_RwrM86",
         "announcement_aQHBAF"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "show_line_separator": true,
