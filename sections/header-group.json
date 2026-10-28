@@ -87,6 +87,7 @@
         "announcement_RwrM86",
         "announcement_aQHBAF"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "show_line_separator": true,
