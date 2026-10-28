@@ -15,22 +15,22 @@
         "heading_itfzk8": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Supporting British Farming and Shopping Local</strong>",
+            "heading": "<strong>3 for 2 on Stocking fillers</strong>",
             "heading_size": "h0"
           }
         },
         "text_AMWKQr": {
           "type": "text",
           "settings": {
-            "text": "<strong>Cheer on your favourite small business by shopping my gifts and stationery</strong>",
-            "text_style": "body"
+            "text": "<strong>Treat stationery and animal lovers this Christmas!</strong>",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "buttons_kVbMP8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop On the Farm",
-            "button_link_1": "shopify://collections/on-the-farm",
+            "button_label_1": "Shop 3 for 2 on Stocking Fillers",
+            "button_link_1": "shopify://collections/3-for-2-on-stocking-fillers",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "https://samanthahall.design/pages/stocklists-events",
@@ -44,11 +44,11 @@
         "buttons_kVbMP8"
       ],
       "settings": {
-        "image": "shopify://shop_images/on_the_farm_collection.jpg",
-        "image_overlay_opacity": 30,
+        "image": "shopify://shop_images/20250805_Sam_02_047_d6bed335-8460-42ae-9403-237356a4a15b.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
         "image_behavior": "none",
