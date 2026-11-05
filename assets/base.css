@@ -81,6 +81,18 @@ collection-component {
 
 /* base */
 
+.unsupported-country-block {
+  display: none !important;
+}
+
+html.unsupported-country .unsupported-country-hidden {
+  display: none !important;
+}
+
+html.unsupported-country .unsupported-country-block {
+  display: block !important;
+}
+
 .page-width {
   max-width: var(--page-width);
   margin: 0 auto;
@@ -2265,6 +2277,7 @@ input[type='checkbox'] {
   margin: 0;
   letter-spacing: 0.1rem;
   min-height: 3.8rem;
+  word-break: inherit;
 }
 
 .announcement-bar-slider--fade-in-next .announcement-bar__message,

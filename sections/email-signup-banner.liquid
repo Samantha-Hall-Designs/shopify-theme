@@ -73,7 +73,7 @@
           {%- when 'email_form' -%}
             <div {{ block.shopify_attributes }}>
               {% form 'customer', class: 'newsletter-form' %}
-                <input type="hidden" name="contact[tags]" value="newsletter">
+                <input type="hidden" name="contact[tags]" value="{{ block.settings.tags }}">
                 <div class="newsletter-form__field-wrapper">
                   <div class="field">
                     <input
@@ -160,7 +160,7 @@
       "id": "show_background_image",
       "label": "t:sections.email-signup-banner.settings.show_background_image.label",
       "default": true
-    },    
+    },
     {
       "type": "image_picker",
       "id": "image",
@@ -203,7 +203,7 @@
     {
       "type": "header",
       "content": "t:sections.email-signup-banner.settings.content_header.content"
-    },    
+    },
     {
       "type": "select",
       "id": "desktop_content_position",
@@ -267,7 +267,7 @@
       ],
       "default": "center",
       "label": "t:sections.email-signup-banner.settings.desktop_content_alignment.label"
-    },    
+    },
     {
       "type": "checkbox",
       "id": "show_text_box",
@@ -386,7 +386,14 @@
     {
       "type": "email_form",
       "name": "t:sections.email-signup-banner.blocks.email_form.name",
-      "limit": 1
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "tags",
+          "label": "t:sections.email-signup-banner.blocks.email_form.settings.tags.label"
+        }
+      ]
     }
   ],
   "presets": [

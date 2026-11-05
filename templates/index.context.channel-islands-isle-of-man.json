@@ -1,0 +1,8 @@
+{
+  "parent": "index.json",
+  "context": {
+    "market": "channel-islands-isle-of-man"
+  },
+  "sections": {
+  }
+}

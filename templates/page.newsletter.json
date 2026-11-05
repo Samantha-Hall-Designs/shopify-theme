@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": ["h1, {text-align: center;}"],
+      "settings": { "padding_top": 28, "padding_bottom": 28 }
+    },
+    "newsletter_f8K6PJ": {
+      "type": "newsletter",
+      "blocks": { "email_form_XPncMQ": { "type": "email_form", "settings": {} } },
+      "block_order": ["email_form_XPncMQ"],
+      "settings": { "color_scheme": "", "full_width": true, "padding_top": 40, "padding_bottom": 52 }
+    }
+  },
+  "order": ["main", "newsletter_f8K6PJ"]
+}

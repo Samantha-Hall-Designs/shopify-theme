@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "bundly_mix_match_bundles_bundle_information_mfAQNT": {
+          "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/bundle_information\/1cabc354-c7f9-42e9-8322-7655396b33b7",
+          "settings": {
+            "show_bundle_images": true,
+            "show_title": true,
+            "show_discount_type": false,
+            "show_original_price": true,
+            "show_new_price": true,
+            "show_component_images": true,
+            "show_component_prices": false,
+            "liquid": "",
+            "use_default_styling": true,
+            "css": ""
+          }
+        },
+        "bundly_mix_match_bundles_bundle_variant_picker_7CyYGF": {
+          "type": "shopify:\/\/apps\/bundly-mix-match-bundles\/blocks\/bundle_variant_picker\/1cabc354-c7f9-42e9-8322-7655396b33b7",
+          "disabled": true,
+          "settings": {
+            "show_component_images": true,
+            "show_component_prices": false,
+            "use_default_styling": true,
+            "css": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "bundly_mix_match_bundles_bundle_information_mfAQNT",
+        "bundly_mix_match_bundles_bundle_variant_picker_7CyYGF",
+        "buy_buttons",
+        "description",
+        "share"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products"
+  ]
+}
