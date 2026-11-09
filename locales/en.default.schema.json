@@ -549,6 +549,10 @@
             },
             "link": {
               "label": "Link"
+            },
+            "uk_only": {
+              "label": "Show only in the United Kingdom",
+              "info": "Hidden for shoppers outside the UK. Always visible in the theme editor."
             }
           }
         }

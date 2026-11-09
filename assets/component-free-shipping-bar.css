@@ -1,0 +1,39 @@
+.free-shipping-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  padding-bottom: 1.5rem;
+}
+
+.free-shipping-bar__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.free-shipping-bar__message {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.free-shipping-bar__percent {
+  font-size: 1.4rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.free-shipping-bar__track {
+  height: 0.8rem;
+  background-color: rgba(var(--color-button), 0.08);
+  border: 0.1rem solid rgba(var(--color-button), 0.2);
+  border-radius: 10rem;
+  overflow: hidden;
+}
+
+.free-shipping-bar__fill {
+  height: 100%;
+  background-color: rgba(var(--color-button), var(--alpha-button-background));
+  border-radius: 10rem;
+  transition: width var(--duration-default) ease-in-out;
+}
