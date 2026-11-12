@@ -189,7 +189,7 @@
                         {%- render 'loading-spinner' -%}
                         <span
                           >(
-                          {{- 'products.product.quantity.in_cart_html' | t: quantity: cart_qty -}}
+                          {{- 'products.product.quantity.in_cart_html' | t: quantity: cart_qty, cart_url: routes.cart_url -}}
                           )</span
                         >
                       </span>

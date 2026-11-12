@@ -20,7 +20,8 @@
           "type": "announcement",
           "settings": {
             "text": "Free 1st Class Delivery over £30",
-            "link": ""
+            "link": "",
+            "uk_only": true
           }
         },
         "announcement_bmwVW9": {

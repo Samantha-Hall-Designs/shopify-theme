@@ -354,6 +354,16 @@ a.product__text {
 .product-form__quantity .form__label {
   margin-bottom: 0.6rem;
 }
+.product-form__quantity .form__label a {
+  color: rgba(var(--color-link), var(--alpha-link));
+  text-underline-offset: 0.3rem;
+  text-decoration-thickness: 0.1rem;
+  transition: text-decoration-thickness var(--duration-short) ease;
+}
+.product-form__quantity .form__label a:hover {
+  color: rgb(var(--color-link));
+  text-decoration-thickness: 0.2rem;
+}
 
 .price-per-item__label.form__label {
   margin-bottom: 0rem;

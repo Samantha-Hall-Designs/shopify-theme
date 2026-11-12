@@ -1,0 +1,63 @@
+{%- doc -%}
+  Renders a progress bar showing how close the cart total is to the free shipping threshold.
+
+  The threshold is read from the `custom.free_shipping_threshold` shop metafield (Settings →
+  Custom data → Shop in the Shopify admin), stored in the cart currency's subunit (pence
+  for GBP, e.g. 3000 for £30). If the metafield is unset, the fallback value below is used.
+
+  Only rendered for shoppers in the UK market (`localization.country.iso_code` of `GB`).
+
+  @example
+    {% render 'free-shipping-bar' %}
+{%- enddoc -%}
+
+{%- if localization.country.iso_code == 'GB' -%}
+  {{ 'component-free-shipping-bar.css' | asset_url | stylesheet_tag }}
+
+{%- liquid
+  assign free_shipping_threshold = 3000
+
+  assign threshold_metafield = shop.metafields.custom.free_shipping_threshold
+  if threshold_metafield != blank
+    assign free_shipping_threshold = threshold_metafield.value
+  endif
+
+  assign amount_remaining = free_shipping_threshold | minus: cart.total_price
+  if amount_remaining < 0
+    assign amount_remaining = 0
+  endif
+
+  assign percent_complete = cart.total_price | times: 100 | divided_by: free_shipping_threshold
+  if percent_complete > 100
+    assign percent_complete = 100
+  endif
+
+  assign amount_remaining_formatted = amount_remaining | money
+-%}
+
+<div class="free-shipping-bar">
+  <div class="free-shipping-bar__header">
+    <p class="free-shipping-bar__message">
+      {%- if amount_remaining == 0 -%}
+        {{- 'sections.cart.free_shipping_unlocked_html' | t -}}
+      {%- else -%}
+        {{-
+          'sections.cart.free_shipping_remaining_html'
+          | t: amount: amount_remaining_formatted
+        -}}
+      {%- endif -%}
+    </p>
+    <span class="free-shipping-bar__percent">{{ percent_complete }}%</span>
+  </div>
+  <div
+    class="free-shipping-bar__track"
+    role="progressbar"
+    aria-valuemin="0"
+    aria-valuemax="100"
+    aria-valuenow="{{ percent_complete }}"
+    aria-label="{{ 'sections.cart.free_shipping_progress' | t }}"
+  >
+    <div class="free-shipping-bar__fill" style="width: {{ percent_complete }}%; display: block"></div>
+  </div>
+</div>
+{%- endif -%}
