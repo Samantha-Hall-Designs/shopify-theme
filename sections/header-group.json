@@ -1,21 +1,27 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "settings": {
-        "color_scheme": "scheme-4",
-        "show_line_separator": false,
-        "show_social": true,
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "enable_country_selector": false,
-        "enable_language_selector": false,
-        "unsupported_country_text": "Please use my Etsy Store for Non-UK Shipping",
-        "unsupported_country_link": "https://www.etsy.com/shop/SamanthaHallDesigns"
-      },
       "blocks": {
+        "announcement_RB7zAP": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Mystery Gift Ends on Tuesday 1st December at Midnight! Grab Yours Now!",
+            "link": "",
+            "uk_only": false
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -28,19 +34,33 @@
           "type": "announcement",
           "settings": {
             "text": "Click here to get 10% off your first order!",
-            "link": "shopify://pages/newsletter"
+            "link": "shopify://pages/newsletter",
+            "uk_only": false
           }
         }
       },
       "block_order": [
+        "announcement_RB7zAP",
         "announcement-bar-0",
         "announcement_bmwVW9"
-      ]
+      ],
+      "settings": {
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "color_scheme": "scheme-4",
+        "show_line_separator": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "unsupported_country_text": "Please use my Etsy Store for Non-UK Shipping",
+        "unsupported_country_link": "https://www.etsy.com/shop/SamanthaHallDesigns"
+      }
     },
     "header": {
       "type": "header",
       "settings": {
         "logo_position": "top-center",
+        "mobile_logo_position": "center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "none",
@@ -49,8 +69,6 @@
         "menu_color_scheme": "scheme-1",
         "enable_country_selector": false,
         "enable_language_selector": false,
-        "enable_customer_avatar": true,
-        "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 20,
         "padding_bottom": 20
@@ -61,9 +79,11 @@
       "blocks": {
         "announcement_RwrM86": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "I am away until the 26th of October - Orders will be sent when I am back!",
-            "link": ""
+            "link": "",
+            "uk_only": false
           }
         },
         "announcement_aQHBAF": {
@@ -71,7 +91,8 @@
           "disabled": true,
           "settings": {
             "text": "I'm working part-time hours so the shop is only open for WHOLESALE orders",
-            "link": ""
+            "link": "",
+            "uk_only": false
           }
         }
       },
@@ -79,17 +100,16 @@
         "announcement_RwrM86",
         "announcement_aQHBAF"
       ],
-      "disabled": true,
       "settings": {
-        "color_scheme": "scheme-3",
-        "show_line_separator": true,
-        "unsupported_country_text": "",
-        "unsupported_country_link": "",
-        "show_social": false,
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "color_scheme": "scheme-3",
+        "show_line_separator": true,
+        "show_social": false,
         "enable_country_selector": false,
-        "enable_language_selector": false
+        "enable_language_selector": false,
+        "unsupported_country_text": "",
+        "unsupported_country_link": ""
       }
     }
   },
