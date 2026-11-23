@@ -1,6 +1,183 @@
+{% doc %}
+  @prompt
+    image with countdown timer, seperate the image and countdown
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-countdown-image-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+  }
+  .ai-countdown-image-{{ ai_gen_id }} .ai-countdown-image__frame-{{ ai_gen_id }} {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    aspect-ratio: 16 / 7;
+    min-height: 220px;
+    background: #f3f3f3;
+  }
+  .ai-countdown-image-{{ ai_gen_id }} .ai-countdown-image__frame-{{ ai_gen_id }} img,
+  .ai-countdown-image-{{ ai_gen_id }} .ai-countdown-image__frame-{{ ai_gen_id }} svg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .ai-countdown-image-{{ ai_gen_id }} .ai-countdown-image__placeholder-{{ ai_gen_id }} {
+    position: absolute;
+    inset: 0;
+  }
+  .ai-countdown-image-{{ ai_gen_id }} .ai-countdown-image__empty-{{ ai_gen_id }} {
+    position: absolute;
+    left: 50%;
+    bottom: 16px;
+    transform: translateX(-50%);
+    padding: 8px 12px;
+    background: #fff;
+    color: #121212;
+    font: 14px/1.4 Arial, sans-serif;
+    text-align: center;
+  }
+  .ai-countdown-display-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    padding: 28px 20px;
+    color: {{ block.settings.text_color }};
+    background: {{ block.settings.background_color }};
+    font-family: Garamond, Baskerville, 'Times New Roman', serif;
+    text-align: {{ block.settings.content_alignment }};
+  }
+  .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__panel-{{ ai_gen_id }} {
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 22px;
+    background: {{ block.settings.panel_color }};
+  }
+  .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__heading-{{ ai_gen_id }} {
+    margin: 0 0 14px;
+    font-size: clamp(24px, 4vw, 42px);
+    line-height: 1.1;
+  }
+  .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__timer-{{ ai_gen_id }} {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: {{ block.settings.content_alignment }};
+  }
+  .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__unit-{{ ai_gen_id }} {
+    min-width: 64px;
+    padding: 9px 12px;
+    background: {{ block.settings.unit_color }};
+    color: #fff;
+    text-align: center;
+  }
+  .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__number-{{ ai_gen_id }} {
+    display: block;
+    font-size: 24px;
+    line-height: 1.1;
+    font-variant-numeric: tabular-nums;
+  }
+  .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__label-{{ ai_gen_id }} {
+    display: block;
+    margin-top: 3px;
+    font: 11px/1.2 Arial, sans-serif;
+  }
+  .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__ended-{{ ai_gen_id }} {
+    margin: 12px 0 0;
+  }
+  @media screen and (max-width: 749px) {
+    .ai-countdown-image-{{ ai_gen_id }} .ai-countdown-image__frame-{{ ai_gen_id }} {
+      aspect-ratio: 4 / 3;
+      min-height: 240px;
+    }
+    .ai-countdown-display-{{ ai_gen_id }} { padding: 16px 12px; }
+    .ai-countdown-display-{{ ai_gen_id }} .ai-countdown-display__panel-{{ ai_gen_id }} { padding: 16px 12px; }
+  }
+{% endstyle %}
+
+<image-countdown-{{ ai_gen_id }} class="ai-countdown-image-{{ ai_gen_id }}" data-deadline="{{ block.settings.deadline | escape }}" data-ended="{{ block.settings.ended_text | escape }}" {{ block.shopify_attributes }}>
+  <div class="ai-countdown-image__frame-{{ ai_gen_id }}">
+    {% if block.settings.image != blank %}
+      <img src="{{ block.settings.image | image_url: width: 2000 }}" alt="{{ block.settings.image.alt | escape }}" loading="lazy" width="{{ block.settings.image.width }}" height="{{ block.settings.image.height }}">
+    {% else %}
+      <div class="ai-countdown-image__placeholder-{{ ai_gen_id }}">
+        {{ 'image' | placeholder_svg_tag }}
+        <div class="ai-countdown-image__empty-{{ ai_gen_id }}">Add an image here</div>
+      </div>
+    {% endif %}
+  </div>
+  <div class="ai-countdown-display-{{ ai_gen_id }}">
+    <div class="ai-countdown-display__panel-{{ ai_gen_id }}">
+      {% if block.settings.heading != blank %}<h2 class="ai-countdown-display__heading-{{ ai_gen_id }}">{{ block.settings.heading | escape }}</h2>{% endif %}
+      <div class="ai-countdown-display__timer-{{ ai_gen_id }}" role="timer" aria-live="off">
+        <span class="ai-countdown-display__unit-{{ ai_gen_id }}"><span class="ai-countdown-display__number-{{ ai_gen_id }}" data-days>00</span><span class="ai-countdown-display__label-{{ ai_gen_id }}">Days</span></span>
+        <span class="ai-countdown-display__unit-{{ ai_gen_id }}"><span class="ai-countdown-display__number-{{ ai_gen_id }}" data-hours>00</span><span class="ai-countdown-display__label-{{ ai_gen_id }}">Hours</span></span>
+        <span class="ai-countdown-display__unit-{{ ai_gen_id }}"><span class="ai-countdown-display__number-{{ ai_gen_id }}" data-minutes>00</span><span class="ai-countdown-display__label-{{ ai_gen_id }}">Minutes</span></span>
+        <span class="ai-countdown-display__unit-{{ ai_gen_id }}"><span class="ai-countdown-display__number-{{ ai_gen_id }}" data-seconds>00</span><span class="ai-countdown-display__label-{{ ai_gen_id }}">Seconds</span></span>
+      </div>
+      <p class="ai-countdown-display__ended-{{ ai_gen_id }}" data-ended-message hidden></p>
+    </div>
+  </div>
+</image-countdown-{{ ai_gen_id }}>
+
+<script>
+  (() => {
+    const tagName = 'image-countdown-{{ ai_gen_id }}';
+    if (customElements.get(tagName)) return;
+    class ImageCountdown extends HTMLElement {
+      connectedCallback() {
+        this.timer = this.querySelector('.ai-countdown-display__timer-{{ ai_gen_id }}');
+        this.message = this.querySelector('[data-ended-message]');
+        this.deadline = new Date(this.dataset.deadline).getTime();
+        this.update = this.update.bind(this);
+        this.update();
+        this.interval = window.setInterval(this.update, 1000);
+      }
+      disconnectedCallback() { window.clearInterval(this.interval); }
+      update() {
+        if (!Number.isFinite(this.deadline) || this.deadline <= 0 || Date.now() >= this.deadline) {
+          if (this.timer) this.timer.hidden = true;
+          if (this.message) {
+            this.message.textContent = this.dataset.ended || 'This offer has ended.';
+            this.message.hidden = false;
+          }
+          window.clearInterval(this.interval);
+          return;
+        }
+        const remaining = Math.floor((this.deadline - Date.now()) / 1000);
+        const values = { days: Math.floor(remaining / 86400), hours: Math.floor((remaining % 86400) / 3600), minutes: Math.floor((remaining % 3600) / 60), seconds: remaining % 60 };
+        Object.keys(values).forEach((unit) => {
+          const node = this.querySelector(`[data-${unit}]`);
+          if (node) node.textContent = String(values[unit]).padStart(2, '0');
+        });
+      }
+    }
+    customElements.define(tagName, ImageCountdown);
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Image and countdown",
+  "settings": [
+    { "type": "image_picker", "id": "image", "label": "Image" },
+    { "type": "text", "id": "heading", "label": "Heading", "default": "A little something special" },
+    { "type": "text", "id": "deadline", "label": "End date and time (ISO 8601)", "default": "2027-12-31T23:59:59+00:00" },
+    { "type": "text", "id": "ended_text", "label": "Message when finished", "default": "This offer has ended." },
+    { "type": "select", "id": "content_alignment", "label": "Content alignment", "options": [{ "value": "left", "label": "Left" }, { "value": "center", "label": "Centre" }, { "value": "right", "label": "Right" }], "default": "center" },
+    { "type": "range", "id": "desktop_width_percent", "label": "Desktop width", "min": 50, "max": 100, "step": 5, "unit": "%", "default": 100 },
+    { "type": "color", "id": "panel_color", "label": "Panel background", "default": "#FFFFFF" },
+    { "type": "color", "id": "background_color", "label": "Block background", "default": "#F3F3F3" },
+    { "type": "color", "id": "text_color", "label": "Text", "default": "#121212" },
+    { "type": "color", "id": "unit_color", "label": "Timer background", "default": "#016738" }
+  ],
+  "presets": [{ "name": "Image and countdown" }],
+  "tag": null,
+  "class": "image-countdown-block"
+}
 {% endschema %}
